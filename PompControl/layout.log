@@ -1,0 +1,2265 @@
+Sun Mar 29 12:36:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\LIBRARY\TM_DIODE.LLB
+Mon May 25 11:58:01 Saved as file C:\USERS\DIMA\GOOGLE Диск\ORCAD\TEST\CSHEM1.MAX
+Mon May 25 11:58:01 Saved as file BACKUP1.MAX
+Mon May 25 11:58:01 Saved as file C:\USERS\DIMA\GOOGLE Диск\ORCAD\TEST\CSHEM1.MAX
+Mon May 25 11:58:01 UserDiv from Layout.INI for AutoECO: 60
+Mon May 25 12:00:01 Saved as file BACKUP1.MAX
+Mon May 25 12:00:01 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Mon May 25 12:00:01 UserDiv from Layout.INI for AutoECO: 60
+Mon May 25 12:00:01 Loaded file C:\ORCAD\TEST\CSHEM1.MAX
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON100T.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BGA.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\CLCC.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON050T.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON085T.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050F.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050T.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIN.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ECON100T.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\FBUS.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ISA.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LCON100T.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PC104.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCI.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON100T.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON156T.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PGA.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PLCC.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUAD.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUADB.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RELAY.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RF.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SBUS.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050F.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050T.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100F.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100T.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOJ.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\STIFF.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TELE.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_AXIAL.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Mon May 25 12:00:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Mon May 25 12:00:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Mon May 25 12:00:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DISC.llb
+Mon May 25 12:00:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_RAD.llb
+Mon May 25 12:00:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TO.llb
+Mon May 25 12:00:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TRAINING.LLB
+Mon May 25 12:00:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\VRES.llb
+Mon May 25 12:00:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\WCON100T.llb
+Mon May 25 12:00:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\XT.llb
+Mon May 25 12:00:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ZIGZAG.llb
+Mon May 25 12:01:08 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Mon May 25 12:01:08 Saved as file BACKUP1.MAX
+Mon May 25 12:01:08 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Mon May 25 12:01:09 UserDiv from Layout.INI for AutoECO: 60
+Mon May 25 12:01:09 Loaded file C:\ORCAD\TEST\CSHEM1.MAX
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON100T.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BGA.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\CLCC.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON050T.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON085T.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050F.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050T.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIN.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ECON100T.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\FBUS.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ISA.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LCON100T.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PC104.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCI.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON100T.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON156T.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PGA.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PLCC.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUAD.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUADB.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RELAY.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RF.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SBUS.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050F.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050T.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100F.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100T.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOJ.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\STIFF.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TELE.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_AXIAL.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DISC.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_RAD.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TO.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TRAINING.LLB
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\VRES.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\WCON100T.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\XT.llb
+Mon May 25 12:01:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ZIGZAG.llb
+Mon May 25 12:01:09 Library file not found:USER.PRT
+Mon May 25 12:01:09 Library file not found:USER.PRT
+Mon May 25 12:01:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:01:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:01:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Mon May 25 12:01:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:01:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:01:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:54 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:55 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:02:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:08 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:20 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:03:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:03:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:04:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:04:03 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:04:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:04:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:04:17 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:04:17 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:04:17 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:04:17 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:04:17 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:04:17 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:04:17 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:04:17 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:04:17 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:04:17 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:04:17 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:04:17 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:04:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:04:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:04:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Mon May 25 12:04:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:05:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:05:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:10 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:05:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:05:26 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:05:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:05:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:05:30 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:30 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:30 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:30 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:30 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:30 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:30 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:30 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:30 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:30 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:30 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:05:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:05:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON100T.llb
+Mon May 25 12:05:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:05:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON100T.llb
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:05:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:05:53 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:06:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Mon May 25 12:06:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:06:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Mon May 25 12:06:04 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:06:04 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:06:04 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:06:04 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:06:04 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:06:04 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:06:04 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:06:04 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:06:04 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:06:04 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:07:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:07:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_RAD.llb
+Mon May 25 12:07:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:07:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:07:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:07:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:07:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:07:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:07:15 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:07:18 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_RAD.llb
+Mon May 25 12:07:18 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:18 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:18 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:18 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:18 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:18 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:18 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:18 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:18 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:18 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:07:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:07:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:07:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:07:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:07:48 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:09:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:09:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:09:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON100T.llb
+Mon May 25 12:09:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:09:51 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON100T.llb
+Mon May 25 12:09:51 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:09:51 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:09:51 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:09:51 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:09:51 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:09:51 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:09:51 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:09:51 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:09:51 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:09:51 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:09:51 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:09:51 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:10:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:10:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Mon May 25 12:10:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:10:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:10:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:10:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:10:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Mon May 25 12:10:48 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:10:49 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:49 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:10:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:10:56 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:11:16 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Mon May 25 12:11:22 Saved as file BACKUP1.MAX
+Mon May 25 12:11:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:11:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:11:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:11:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Mon May 25 12:11:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOJ.llb
+Mon May 25 12:11:35 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Mon May 25 12:11:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:11:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:45 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:11:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:11:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:11:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Mon May 25 12:12:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:12:01 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Mon May 25 12:12:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:12:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:12:19 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:12:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:12:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:12:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:12:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:12:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:12:40 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:40 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:40 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:40 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:40 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:40 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:40 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:40 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:40 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:40 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:40 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:40 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:40 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:40 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:12:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:12:47 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Mon May 25 12:12:57 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:12:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:12:58 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Mon May 25 12:12:58 Loaded file C:\ORCAD\TEST\CSHEM1.MAX
+Mon May 25 12:13:56 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon May 25 12:13:56 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon May 25 12:14:00 Loaded file C:\Program Files\Orcad\Layout_Plus\library\SM.llb
+Mon May 25 12:14:01 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon May 25 12:14:04 Loaded file C:\Program Files\Orcad\Layout_Plus\library\padstack.llb
+Mon May 25 12:14:09 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Mon May 25 12:14:24 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon May 25 12:14:24 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:24 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon May 25 12:14:29 Loaded file C:\Program Files\Orcad\Layout_Plus\library\SM.llb
+Mon May 25 12:14:31 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon May 25 12:14:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:32 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:14:44 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon May 25 12:14:44 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon May 25 12:14:51 Loaded file C:\Program Files\Orcad\Layout_Plus\library\SM.llb
+Mon May 25 12:14:52 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon May 25 12:14:54 Loaded file C:\Program Files\Orcad\Layout_Plus\library\padstack.llb
+Mon May 25 12:15:01 Loaded file C:\Program Files\Orcad\Layout_Plus\library\padstack.llb
+Mon May 25 12:15:07 Loaded file C:\Program Files\Orcad\Layout_Plus\library\SM.llb
+Mon May 25 12:15:07 Saved as file C:\Program Files\Orcad\Layout_Plus\library\SM.llb
+Mon May 25 12:15:12 Error code 5255.053 (512)
+Mon May 25 12:15:12 Saved as file Backup0.max
+Mon May 25 12:15:12 Windows which were open at time of error:
+Mon May 25 12:15:12 	ActiveWindow: &Design
+Mon May 25 12:15:12 	Icon: &Components
+Mon May 25 12:15:12 	Icon: &Nets
+Mon May 25 12:15:12 	Icon: Post Proces&s
+Mon May 25 12:15:12 End-of-list
+Mon May 25 12:15:12 Loaded file BACKUP0.MAX
+Mon May 25 12:15:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:15:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:15:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:15:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:15:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:15:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:15:59 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:16:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:16:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:16:12 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\padstack.llb
+Mon May 25 12:16:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:16:31 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:16:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:16:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:16:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\padstack.llb
+Mon May 25 12:16:39 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\padstack.llb
+Mon May 25 12:16:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\padstack.llb
+Mon May 25 12:16:46 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:16:46 Saved as file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:16:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:16:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:16:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:16:58 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Mon May 25 12:17:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:17:06 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:17:13 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:17:13 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:17:13 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:17:13 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:17:13 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:17:13 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:17:13 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:17:13 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:17:13 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:17:13 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:17:13 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:17:13 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:17:13 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:17:13 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:17:26 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Mon May 25 12:17:36 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Mon May 25 12:18:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:33 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:18:34 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:01 Footprint coords will be rounded to nearest base unit.
+Mon May 25 12:19:02 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue May 26 18:56:21 Saved as file BACKUP1.MAX
+Tue May 26 19:06:21 Saved as file BACKUP1.MAX
+Tue May 26 19:16:52 Saved as file BACKUP1.MAX
+Tue May 26 19:26:52 Saved as file BACKUP1.MAX
+Tue May 26 19:36:52 Saved as file BACKUP1.MAX
+Tue May 26 19:37:21 Saved as file ~undo.max
+Tue May 26 19:38:45 Saved as file ~undo.max
+Tue May 26 19:38:58 Saved as file ~undo.max
+Tue May 26 19:39:17 Saved as file ~undo.max
+Tue May 26 19:43:07 Saved as file ~undo.max
+Tue May 26 19:46:53 Saved as file BACKUP1.MAX
+Tue May 26 19:48:19 Saved as file ~undo.max
+Tue May 26 19:48:23 Saved as file ~undo.max
+Tue May 26 19:52:58 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Tue May 26 19:53:00 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Tue May 26 19:54:51 Saved as file ~undo.max
+Tue May 26 19:55:03 Saved as file ~undo.max
+Tue May 26 19:56:53 Saved as file BACKUP1.MAX
+Tue May 26 20:04:18 Saved as file ~undo.max
+Tue May 26 20:04:19 Saved as file ~undo.max
+Tue May 26 20:04:20 Saved as file ~undo.max
+Tue May 26 20:04:20 Saved as file ~undo.max
+Thu May 28 17:31:48 Saved as file ~undo.max
+Thu May 28 17:33:46 Saved as file ~undo.max
+Thu May 28 17:35:59 Saved as file BACKUP1.MAX
+Thu May 28 17:39:56 Saved as file ~undo.max
+Thu May 28 17:40:31 Saved as file ~undo.max
+Thu May 28 17:45:59 Saved as file BACKUP1.MAX
+Thu May 28 17:55:59 Saved as file BACKUP1.MAX
+Thu May 28 18:05:59 Saved as file BACKUP1.MAX
+Thu May 28 18:16:00 Saved as file BACKUP1.MAX
+Thu May 28 18:26:00 Saved as file BACKUP1.MAX
+Thu May 28 18:27:32 Saved as file ~undo.max
+Thu May 28 18:36:00 Saved as file BACKUP1.MAX
+Thu May 28 18:46:01 Saved as file BACKUP1.MAX
+Thu May 28 18:48:27 Saved as file ~undo.max
+Thu May 28 18:57:01 Saved as file BACKUP1.MAX
+Thu May 28 18:59:18 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Thu May 28 18:59:19 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Thu May 28 18:59:31 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Thu May 28 19:07:01 Saved as file BACKUP1.MAX
+Thu May 28 19:17:02 Saved as file BACKUP1.MAX
+Thu May 28 19:27:02 Saved as file BACKUP1.MAX
+Thu May 28 19:37:02 Saved as file BACKUP1.MAX
+Thu May 28 19:47:02 Saved as file BACKUP1.MAX
+Thu May 28 19:57:03 Saved as file BACKUP1.MAX
+Thu May 28 20:07:03 Saved as file BACKUP1.MAX
+Thu May 28 20:16:01 Saved as file ~undo.max
+Thu May 28 20:17:03 Saved as file BACKUP1.MAX
+Thu May 28 20:27:04 Saved as file BACKUP1.MAX
+Thu May 28 20:32:08 Saved as file ~undo.max
+Thu May 28 20:37:04 Saved as file BACKUP1.MAX
+Thu May 28 20:47:04 Saved as file BACKUP1.MAX
+Thu May 28 20:56:36 Saved as file ~undo.max
+Thu May 28 20:57:04 Saved as file BACKUP1.MAX
+Thu May 28 21:02:23 Saved as file ~undo.max
+Thu May 28 21:07:05 Saved as file BACKUP1.MAX
+Thu May 28 21:07:14 Saved as file ~undo.max
+Thu May 28 21:12:01 Saved as file ~undo.max
+Thu May 28 21:17:35 Saved as file BACKUP1.MAX
+Thu May 28 21:19:17 Saved as file ~undo.max
+Thu May 28 21:24:25 Saved as file ~undo.max
+Thu May 28 21:27:54 Saved as file ~undo.max
+Thu May 28 21:28:05 Saved as file BACKUP1.MAX
+Thu May 28 21:38:06 Saved as file BACKUP1.MAX
+Thu May 28 21:48:06 Saved as file BACKUP1.MAX
+Thu May 28 21:57:11 Saved as file ~undo.max
+Thu May 28 21:58:06 Saved as file BACKUP1.MAX
+Thu May 28 22:08:07 Saved as file BACKUP1.MAX
+Thu May 28 22:10:24 Saved as file ~undo.max
+Thu May 28 22:13:35 Saved as file ~undo.max
+Thu May 28 22:16:05 Saved as file ~undo.max
+Thu May 28 22:18:07 Saved as file BACKUP1.MAX
+Thu May 28 22:26:02 Saved as file ~undo.max
+Thu May 28 22:28:07 Saved as file BACKUP1.MAX
+Thu May 28 22:29:12 Saved as file ~undo.max
+Thu May 28 22:31:59 Saved as file ~undo.max
+Thu May 28 22:38:07 Saved as file BACKUP1.MAX
+Thu May 28 22:48:08 Saved as file BACKUP1.MAX
+Thu May 28 22:53:19 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Thu May 28 22:54:10 Saved as file ~undo.max
+Thu May 28 22:54:29 Saved as file ~undo.max
+Thu May 28 22:54:39 Saved as file ~undo.max
+Thu May 28 22:54:56 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Fri May 29 12:00:49 Saved as file ~undo.max
+Fri May 29 12:03:08 Saved as file ~undo.max
+Fri May 29 12:09:44 Saved as file BACKUP1.MAX
+Fri May 29 12:19:44 Saved as file BACKUP1.MAX
+Fri May 29 12:29:45 Saved as file BACKUP1.MAX
+Fri May 29 12:39:45 Saved as file BACKUP1.MAX
+Fri May 29 12:49:45 Saved as file BACKUP1.MAX
+Fri May 29 12:59:46 Saved as file BACKUP1.MAX
+Fri May 29 13:09:46 Saved as file BACKUP1.MAX
+Fri May 29 13:18:33 Error code 0034.912 (266)
+Fri May 29 13:18:33 Saved as file Backup0.max
+Fri May 29 13:18:33 Windows which were open at time of error:
+Fri May 29 13:18:33 	ActiveWindow: &Design
+Fri May 29 13:18:33 	Icon: &Components
+Fri May 29 13:18:33 	Icon: &Nets
+Fri May 29 13:18:33 	Icon: Post Proces&s
+Fri May 29 13:18:33 End-of-list
+Fri May 29 13:18:33 Error code 0034.912 (266)
+Fri May 29 13:19:26 Saved as file ~undo.max
+Fri May 29 13:19:35 Saved as file ~undo.max
+Fri May 29 13:22:27 Saved as file ~undo.max
+Fri May 29 13:22:37 Saved as file ~undo.max
+Fri May 29 13:29:08 Saved as file BACKUP1.MAX
+Fri May 29 13:32:51 Saved as file ~undo.max
+Fri May 29 13:39:08 Saved as file BACKUP1.MAX
+Fri May 29 13:39:49 Saved as file ~undo.max
+Fri May 29 13:49:08 Saved as file BACKUP1.MAX
+Fri May 29 13:51:48 Saved as file ~undo.max
+Fri May 29 13:52:12 Saved as file ~undo.max
+Fri May 29 13:52:21 Saved as file ~undo.max
+Fri May 29 13:54:05 Saved as file ~undo.max
+Fri May 29 13:57:51 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Fri May 29 13:57:51 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Fri May 29 13:58:29 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Fri May 29 13:58:31 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Fri May 29 13:58:33 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Fri May 29 13:58:37 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Fri May 29 13:58:39 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Fri May 29 14:03:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Fri May 29 14:03:44 Saved as file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Fri May 29 14:04:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Fri May 29 14:04:17 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Fri May 29 14:04:17 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:17 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Fri May 29 14:04:23 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Fri May 29 14:04:35 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:37 Footprint coords will be rounded to nearest base unit.
+Fri May 29 14:04:39 Saved as file BACKUP1.MAX
+Fri May 29 14:06:04 Saved as file ~undo.max
+Fri May 29 14:09:47 Saved as file ~undo.max
+Fri May 29 14:10:02 Saved as file ~undo.max
+Fri May 29 14:10:15 Saved as file ~undo.max
+Fri May 29 14:14:39 Saved as file BACKUP1.MAX
+Fri May 29 14:16:31 Saved as file ~undo.max
+Fri May 29 14:24:39 Saved as file BACKUP1.MAX
+Fri May 29 14:25:18 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Fri May 29 14:34:40 Saved as file BACKUP1.MAX
+Fri May 29 14:35:09 Saved as file ~undo.max
+Fri May 29 14:36:25 Saved as file ~undo.max
+Fri May 29 14:37:05 Saved as file ~undo.max
+Fri May 29 14:37:51 Saved as file ~undo.max
+Fri May 29 14:42:31 Saved as file ~undo.max
+Fri May 29 14:44:40 Saved as file BACKUP1.MAX
+Fri May 29 14:54:40 Saved as file BACKUP1.MAX
+Fri May 29 14:56:05 Saved as file ~undo.max
+Fri May 29 14:56:25 Saved as file ~undo.max
+Fri May 29 14:58:34 Saved as file ~undo.max
+Fri May 29 15:01:03 Saved as file ~undo.max
+Fri May 29 15:05:34 Saved as file ~undo.max
+Fri May 29 15:07:41 Saved as file BACKUP1.MAX
+Fri May 29 15:17:41 Saved as file BACKUP1.MAX
+Fri May 29 15:27:41 Saved as file BACKUP1.MAX
+Fri May 29 15:31:58 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Fri May 29 15:36:40 Saved as file ~undo.max
+Fri May 29 15:37:42 Saved as file BACKUP1.MAX
+Fri May 29 15:42:55 Saved as file ~undo.max
+Fri May 29 15:47:42 Saved as file BACKUP1.MAX
+Fri May 29 15:49:57 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Fri May 29 15:50:44 Saved as file ~undo.max
+Fri May 29 15:52:31 Saved as file ~undo.max
+Fri May 29 15:53:02 Saved as file ~undo.max
+Fri May 29 15:57:42 Saved as file BACKUP1.MAX
+Fri May 29 15:59:59 Saved as file ~undo.max
+Fri May 29 16:05:36 Saved as file ~undo.max
+Fri May 29 16:05:56 Saved as file ~undo.max
+Fri May 29 16:07:14 Saved as file ~undo.max
+Fri May 29 16:07:42 Saved as file BACKUP1.MAX
+Fri May 29 16:15:48 Saved as file ~undo.max
+Fri May 29 16:16:10 Saved as file ~undo.max
+Fri May 29 16:16:46 Saved as file ~undo.max
+Fri May 29 16:17:43 Saved as file BACKUP1.MAX
+Fri May 29 16:18:22 Saved as file ~undo.max
+Fri May 29 16:20:10 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Fri May 29 16:20:21 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Fri May 29 16:21:43 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Fri May 29 22:21:55 Saved as file BACKUP1.MAX
+Fri May 29 22:22:02 Error code 0034.912 (266)
+Fri May 29 22:22:02 Saved as file Backup0.max
+Fri May 29 22:22:02 Windows which were open at time of error:
+Fri May 29 22:22:02 	ActiveWindow: &Design
+Fri May 29 22:22:02 	Icon: &Components
+Fri May 29 22:22:02 	Icon: &Nets
+Fri May 29 22:22:02 	Icon: Post Proces&s
+Fri May 29 22:22:02 End-of-list
+Fri May 29 22:22:02 Loaded file BACKUP0.MAX
+Sat May 30 18:38:50 Saved as file ~undo.max
+Sat May 30 18:40:06 Saved as file ~undo.max
+Sat May 30 18:41:04 Saved as file ~undo.max
+Sat May 30 18:41:50 Saved as file ~undo.max
+Sat May 30 18:42:09 Saved as file ~undo.max
+Sat May 30 18:45:10 Saved as file BACKUP1.MAX
+Sat May 30 18:48:58 Saved as file ~undo.max
+Sat May 30 18:49:08 Saved as file ~undo.max
+Sat May 30 18:51:20 Saved as file ~undo.max
+Sat May 30 18:55:11 Saved as file BACKUP1.MAX
+Sat May 30 18:55:41 Saved as file ~undo.max
+Sat May 30 18:55:58 Saved as file ~undo.max
+Sat May 30 18:56:32 Saved as file ~undo.max
+Sat May 30 18:56:53 Saved as file ~undo.max
+Sat May 30 18:57:07 Saved as file ~undo.max
+Sat May 30 18:57:34 Saved as file ~undo.max
+Sat May 30 18:58:22 Saved as file ~undo.max
+Sat May 30 18:58:34 Saved as file ~undo.max
+Sat May 30 18:58:54 Saved as file ~undo.max
+Sat May 30 18:59:45 Saved as file ~undo.max
+Sat May 30 19:00:13 Saved as file ~undo.max
+Sat May 30 19:02:40 Saved as file ~undo.max
+Sat May 30 19:02:52 Saved as file ~undo.max
+Sat May 30 19:04:15 Saved as file ~undo.max
+Sat May 30 19:05:11 Saved as file BACKUP1.MAX
+Sat May 30 19:07:06 Saved as file ~undo.max
+Sat May 30 19:07:15 Saved as file ~undo.max
+Sat May 30 19:08:23 Saved as file ~undo.max
+Sat May 30 19:08:26 Saved as file ~undo.max
+Sat May 30 19:08:29 Saved as file ~undo.max
+Sat May 30 19:10:35 Saved as file ~undo.max
+Sat May 30 19:12:34 Saved as file ~undo.max
+Sat May 30 19:15:11 Saved as file BACKUP1.MAX
+Sat May 30 19:16:27 Saved as file ~undo.max
+Sat May 30 19:18:27 Saved as file ~undo.max
+Sat May 30 19:19:28 Saved as file ~undo.max
+Sat May 30 19:19:49 Saved as file ~undo.max
+Sat May 30 19:20:03 Saved as file ~undo.max
+Sat May 30 19:20:09 Saved as file ~undo.max
+Sat May 30 19:21:16 Saved as file ~undo.max
+Sat May 30 19:21:24 Saved as file ~undo.max
+Sat May 30 19:22:05 Saved as file ~undo.max
+Sat May 30 19:23:08 Saved as file ~undo.max
+Sat May 30 19:24:58 Saved as file ~undo.max
+Sat May 30 19:25:12 Saved as file BACKUP1.MAX
+Sat May 30 19:26:26 Saved as file ~undo.max
+Sat May 30 19:26:59 Saved as file ~undo.max
+Sat May 30 19:27:15 Saved as file ~undo.max
+Sat May 30 19:28:40 Saved as file ~undo.max
+Sat May 30 19:30:25 Saved as file ~undo.max
+Sat May 30 19:31:14 Saved as file ~undo.max
+Sat May 30 19:31:58 Saved as file ~undo.max
+Sat May 30 19:32:29 Saved as file ~undo.max
+Sat May 30 19:32:47 Saved as file ~undo.max
+Sat May 30 19:33:28 Saved as file ~undo.max
+Sat May 30 19:33:59 Saved as file ~undo.max
+Sat May 30 19:35:12 Saved as file BACKUP1.MAX
+Sat May 30 19:35:41 Saved as file ~undo.max
+Sat May 30 19:39:28 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Sat May 30 19:39:30 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Wed Jun 03 12:00:52 Saved as file BACKUP1.MAX
+Wed Jun 03 12:10:53 Saved as file BACKUP1.MAX
+Wed Jun 03 12:20:53 Saved as file BACKUP1.MAX
+Wed Jun 03 12:30:53 Saved as file BACKUP1.MAX
+Wed Jun 03 12:33:57 Error code 0034.912 (266)
+Wed Jun 03 12:33:57 Saved as file Backup0.max
+Wed Jun 03 12:33:57 Windows which were open at time of error:
+Wed Jun 03 12:33:57 	ActiveWindow: &Design
+Wed Jun 03 12:33:57 	Icon: &Components
+Wed Jun 03 12:33:57 	Icon: &Nets
+Wed Jun 03 12:33:57 	Icon: Post Proces&s
+Wed Jun 03 12:33:57 End-of-list
+Wed Jun 03 12:33:57 Error code 0034.912 (266)
+Wed Jun 03 12:39:28 Saved as file ~undo.max
+Wed Jun 03 12:40:10 Saved as file ~undo.max
+Wed Jun 03 12:40:32 Saved as file ~undo.max
+Wed Jun 03 12:41:36 Saved as file ~undo.max
+Wed Jun 03 12:44:51 Saved as file ~undo.max
+Wed Jun 03 12:45:19 Saved as file BACKUP1.MAX
+Wed Jun 03 12:46:17 Saved as file ~undo.max
+Wed Jun 03 12:47:34 Saved as file ~undo.max
+Wed Jun 03 12:50:04 Saved as file ~undo.max
+Wed Jun 03 12:50:23 Saved as file ~undo.max
+Wed Jun 03 12:53:25 Saved as file ~undo.max
+Wed Jun 03 12:55:49 Saved as file BACKUP1.MAX
+Wed Jun 03 12:56:23 Saved as file ~undo.max
+Wed Jun 03 12:58:38 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Wed Jun 03 12:58:43 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Wed Jun 03 13:05:49 Saved as file BACKUP1.MAX
+Wed Jun 03 13:15:46 Saved as file BACKUP1.MAX
+Wed Jun 03 13:25:46 Saved as file BACKUP1.MAX
+Wed Jun 03 19:27:33 Saved as file BACKUP1.MAX
+Wed Jun 03 19:27:34 Error code 0034.912 (266)
+Wed Jun 03 19:27:36 Saved as file Backup0.max
+Wed Jun 03 19:27:36 Windows which were open at time of error:
+Wed Jun 03 19:27:36 	ActiveWindow: &Design
+Wed Jun 03 19:27:36 	Icon: &Components
+Wed Jun 03 19:27:36 	Icon: &Nets
+Wed Jun 03 19:27:36 	Icon: Post Proces&s
+Wed Jun 03 19:27:36 End-of-list
+Wed Jun 03 19:27:36 Error code 0034.912 (266)
+Thu Jun 04 21:27:36 Saved as file ~undo.max
+Thu Jun 04 21:29:14 Saved as file ~undo.max
+Thu Jun 04 21:31:09 Saved as file ~undo.max
+Thu Jun 04 21:32:55 Saved as file ~undo.max
+Thu Jun 04 21:36:34 Saved as file BACKUP1.MAX
+Thu Jun 04 21:42:15 Saved as file ~undo.max
+Thu Jun 04 21:46:34 Saved as file BACKUP1.MAX
+Thu Jun 04 21:48:29 Saved as file ~undo.max
+Thu Jun 04 21:48:30 Saved as file ~undo.max
+Thu Jun 04 21:48:31 Saved as file ~undo.max
+Thu Jun 04 21:48:35 Saved as file ~undo.max
+Thu Jun 04 21:49:22 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Thu Jun 04 21:49:26 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Thu Jun 04 21:56:34 Saved as file BACKUP1.MAX
+Thu Jun 04 22:06:34 Saved as file BACKUP1.MAX
+Thu Jun 04 22:06:37 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Fri Jun 05 13:27:03 Saved as file BACKUP1.MAX
+Fri Jun 05 13:29:19 Saved as file BACKUP1.MAX
+Fri Jun 05 13:29:19 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Fri Jun 05 13:29:21 UserDiv from Layout.INI for AutoECO: 60
+Fri Jun 05 13:29:21 Loaded file C:\ORCAD\TEST\CSHEM1.MAX
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON100T.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BGA.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\CLCC.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON050T.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON085T.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050F.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050T.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIN.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ECON100T.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\FBUS.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ISA.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LCON100T.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PC104.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCI.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON100T.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON156T.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PGA.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PLCC.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUAD.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUADB.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RELAY.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RF.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SBUS.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050F.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050T.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100F.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100T.llb
+Fri Jun 05 13:29:21 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOJ.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\STIFF.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TELE.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_AXIAL.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DISC.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_RAD.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TO.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TRAINING.LLB
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\VRES.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\WCON100T.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\XT.llb
+Fri Jun 05 13:29:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ZIGZAG.llb
+Fri Jun 05 13:29:22 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Fri Jun 05 13:29:22 Loaded file C:\ORCAD\TEST\CSHEM1.MAX
+Fri Jun 05 13:33:27 Saved as file BACKUP1.MAX
+Fri Jun 05 13:33:27 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Fri Jun 05 13:33:27 UserDiv from Layout.INI for AutoECO: 60
+Fri Jun 05 13:33:27 Loaded file C:\ORCAD\TEST\CSHEM1.MAX
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON100T.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BCON156T.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\BGA.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\CLCC.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON050T.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DCON085T.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050F.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIMM050T.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIN.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100B.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DIP100T.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\DSUBT_HD.LLB
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ECON100T.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\FBUS.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ISA.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\JUMPER.LLB
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LAYOUT.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\LCON100T.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PC104.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCI.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON100T.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PCON156T.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PGA.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\PLCC.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUAD.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\QUADB.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RELAY.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\RF.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SBUS.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050F.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM050T.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100F.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIMM100T.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SIP.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SM.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOG.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\SOJ.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\STIFF.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TELE.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_AXIAL.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CAP_P.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_CYLND.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DIODE.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_DISC.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TM_RAD.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TO.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\TRAINING.LLB
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\VRES.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\WCON100T.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\XT.llb
+Fri Jun 05 13:33:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\library\ZIGZAG.llb
+Fri Jun 05 13:33:27 Saved as file C:\ORCAD\TEST\CSHEM1.MAX
+Fri Jun 05 13:33:27 Loaded file C:\ORCAD\TEST\CSHEM1.MAX
+Fri Jun 05 13:33:51 Error code 0034.912 (266)
+Fri Jun 05 13:33:53 Saved as file Backup0.max
+Fri Jun 05 13:33:53 Windows which were open at time of error:
+Fri Jun 05 13:33:53 	ActiveWindow: &Design
+Fri Jun 05 13:33:53 	Icon: &Components
+Fri Jun 05 13:33:53 	Icon: &Nets
+Fri Jun 05 13:33:53 	Icon: Post Proces&s
+Fri Jun 05 13:33:53 End-of-list
+Fri Jun 05 13:33:53 Error code 0034.912 (266)
+Fri Jun 05 13:35:50 Loaded file C:\ORCAD\TEST\BACKUP5.MAX
+Fri Jun 05 13:36:47 Loaded file C:\ORCAD\TEST\CSHEM1.MAX
+Fri Jun 05 13:44:40 Saved as file BACKUP1.MAX
+Fri Jun 05 13:54:41 Saved as file BACKUP1.MAX
+Fri Jun 05 14:04:41 Saved as file BACKUP1.MAX
+Fri Jun 05 14:11:41 Loaded file C:\ORCAD\TEST\BACKUP5.MAX
+Fri Jun 05 14:13:49 Saved as file ~undo.max
+Fri Jun 05 14:23:07 Saved as file BACKUP1.MAX
+Fri Jun 05 14:33:07 Saved as file BACKUP1.MAX
+Fri Jun 05 14:43:07 Saved as file BACKUP1.MAX
+Fri Jun 05 14:45:35 Saved as file ~undo.max
+Fri Jun 05 14:46:40 Saved as file C:\ORCAD\TEST\BACKUP5.MAX
+Fri Jun 05 22:18:10 Loaded file C:\ORCAD\TEST\BACKUP5.MAX
+Fri Jun 05 22:18:59 Saved as file C:\ORCAD\TEST\SCHEM2.MAX
+Fri Jun 05 22:19:19 Saved as file ~undo.max
+Fri Jun 05 22:22:15 Saved as file ~undo.max
+Fri Jun 05 22:25:23 Saved as file ~undo.max
+Fri Jun 05 22:27:53 Saved as file ~undo.max
+Fri Jun 05 22:28:27 Saved as file BACKUP1.MAX
+Fri Jun 05 22:33:12 Saved as file ~undo.max
+Fri Jun 05 22:36:04 Saved as file ~undo.max
+Fri Jun 05 22:36:41 Saved as file ~undo.max
+Fri Jun 05 22:37:20 Saved as file ~undo.max
+Fri Jun 05 22:37:22 Saved as file ~undo.max
+Fri Jun 05 22:38:27 Saved as file BACKUP1.MAX
+Fri Jun 05 22:38:45 Saved as file ~undo.max
+Fri Jun 05 22:39:18 Saved as file C:\ORCAD\TEST\SCHEM2.MAX
+Thu Jun 11 21:27:53 Saved as file ~undo.max
+Thu Jun 11 21:29:38 Saved as file ~undo.max
+Thu Jun 11 21:32:54 Saved as file ~undo.max
+Thu Jun 11 21:33:46 Saved as file ~undo.max
+Thu Jun 11 21:34:11 Saved as file ~undo.max
+Thu Jun 11 21:35:12 Saved as file BACKUP1.MAX
+Thu Jun 11 21:35:27 Saved as file ~undo.max
+Thu Jun 11 21:36:42 Saved as file ~undo.max
+Thu Jun 11 21:39:48 Saved as file ~undo.max
+Thu Jun 11 21:45:42 Saved as file BACKUP1.MAX
+Thu Jun 11 21:50:16 Saved as file ~undo.max
+Thu Jun 11 21:52:19 Saved as file ~undo.max
+Thu Jun 11 21:54:06 Saved as file ~undo.max
+Thu Jun 11 21:55:42 Saved as file BACKUP1.MAX
+Thu Jun 11 21:58:36 Saved as file C:\ORCAD\TEST\SCHEM2.MAX
+Thu Jun 11 21:59:50 Saved as file ~undo.max
+Thu Jun 11 22:05:13 Saved as file ~undo.max
+Thu Jun 11 22:05:31 Saved as file ~undo.max
+Thu Jun 11 22:05:42 Saved as file BACKUP1.MAX
+Thu Jun 11 22:06:01 Saved as file ~undo.max
+Thu Jun 11 22:12:01 Saved as file ~undo.max
+Thu Jun 11 22:13:05 Saved as file ~undo.max
+Thu Jun 11 22:13:40 Saved as file ~undo.max
+Mon Jun 29 20:48:32 Saved as file ~undo.max
+Mon Jun 29 20:50:46 Saved as file ~undo.max
+Mon Jun 29 20:53:20 Saved as file ~undo.max
+Mon Jun 29 20:53:53 Saved as file ~undo.max
+Mon Jun 29 20:54:29 Saved as file ~undo.max
+Mon Jun 29 20:54:41 Saved as file ~undo.max
+Mon Jun 29 20:56:03 Saved as file ~undo.max
+Mon Jun 29 20:56:25 Saved as file ~undo.max
+Mon Jun 29 20:56:41 Saved as file ~undo.max
+Mon Jun 29 20:57:56 Saved as file BACKUP1.MAX
+Mon Jun 29 20:57:56 Saved as file ~undo.max
+Mon Jun 29 20:59:54 Saved as file ~undo.max
+Mon Jun 29 21:00:23 Saved as file ~undo.max
+Mon Jun 29 21:01:34 Saved as file ~undo.max
+Mon Jun 29 21:05:04 Saved as file ~undo.max
+Mon Jun 29 21:05:20 Saved as file ~undo.max
+Mon Jun 29 21:05:59 Saved as file ~undo.max
+Mon Jun 29 21:06:25 Saved as file ~undo.max
+Mon Jun 29 21:07:24 Saved as file ~undo.max
+Mon Jun 29 21:07:46 Saved as file ~undo.max
+Mon Jun 29 21:07:56 Saved as file BACKUP1.MAX
+Mon Jun 29 21:08:05 Saved as file ~undo.max
+Mon Jun 29 21:08:07 Saved as file ~undo.max
+Mon Jun 29 21:08:23 Saved as file ~undo.max
+Mon Jun 29 21:09:08 Saved as file ~undo.max
+Mon Jun 29 21:09:51 Saved as file ~undo.max
+Mon Jun 29 21:10:35 Saved as file ~undo.max
+Mon Jun 29 21:17:56 Saved as file BACKUP1.MAX
+Mon Jun 29 21:27:56 Saved as file BACKUP1.MAX
+Mon Jun 29 21:37:57 Saved as file BACKUP1.MAX
+Mon Jun 29 21:47:41 Saved as file ~undo.max
+Mon Jun 29 21:47:49 Saved as file ~undo.max
+Mon Jun 29 21:47:57 Saved as file BACKUP1.MAX
+Mon Jun 29 21:48:03 Saved as file ~undo.max
+Mon Jun 29 21:49:03 Saved as file ~undo.max
+Mon Jun 29 21:50:02 Saved as file ~undo.max
+Mon Jun 29 21:51:42 Saved as file ~undo.max
+Mon Jun 29 21:52:18 Saved as file ~undo.max
+Mon Jun 29 21:52:56 Saved as file ~undo.max
+Mon Jun 29 21:54:05 Saved as file ~undo.max
+Mon Jun 29 21:54:38 Saved as file ~undo.max
+Mon Jun 29 21:55:08 Saved as file ~undo.max
+Mon Jun 29 21:56:20 Saved as file ~undo.max
+Mon Jun 29 21:57:57 Saved as file BACKUP1.MAX
+Mon Jun 29 21:57:58 Saved as file ~undo.max
+Mon Jun 29 21:58:38 Saved as file ~undo.max
+Mon Jun 29 21:59:17 Saved as file ~undo.max
+Mon Jun 29 21:59:58 Saved as file ~undo.max
+Mon Jun 29 22:00:13 Saved as file ~undo.max
+Mon Jun 29 22:00:45 Saved as file ~undo.max
+Mon Jun 29 22:01:45 Saved as file ~undo.max
+Mon Jun 29 22:02:52 Saved as file ~undo.max
+Mon Jun 29 22:03:05 Saved as file ~undo.max
+Mon Jun 29 22:03:44 Saved as file ~undo.max
+Mon Jun 29 22:04:06 Saved as file ~undo.max
+Mon Jun 29 22:04:29 Saved as file ~undo.max
+Mon Jun 29 22:06:26 Saved as file ~undo.max
+Mon Jun 29 22:06:54 Saved as file ~undo.max
+Mon Jun 29 22:07:10 Saved as file ~undo.max
+Mon Jun 29 22:07:19 Saved as file ~undo.max
+Mon Jun 29 22:07:41 Saved as file ~undo.max
+Mon Jun 29 22:07:58 Saved as file BACKUP1.MAX
+Mon Jun 29 22:08:20 Saved as file ~undo.max
+Mon Jun 29 22:08:29 Saved as file ~undo.max
+Mon Jun 29 22:08:57 Saved as file ~undo.max
+Mon Jun 29 22:10:19 Saved as file ~undo.max
+Mon Jun 29 22:10:20 Saved as file ~undo.max
+Mon Jun 29 22:10:21 Saved as file ~undo.max
+Mon Jun 29 22:12:53 Saved as file ~undo.max
+Mon Jun 29 22:18:44 Saved as file ~undo.max
+Mon Jun 29 22:18:58 Saved as file BACKUP1.MAX
+Mon Jun 29 22:19:10 Saved as file ~undo.max
+Mon Jun 29 22:20:28 Saved as file ~undo.max
+Mon Jun 29 22:21:21 Saved as file ~undo.max
+Mon Jun 29 22:22:14 Saved as file ~undo.max
+Mon Jun 29 22:22:30 Saved as file ~undo.max
+Mon Jun 29 22:22:30 Saved as file ~undo.max
+Mon Jun 29 22:24:34 Saved as file ~undo.max
+Mon Jun 29 22:24:58 Saved as file ~undo.max
+Mon Jun 29 22:25:06 Saved as file ~undo.max
+Mon Jun 29 22:28:17 Saved as file ~undo.max
+Mon Jun 29 22:28:58 Saved as file BACKUP1.MAX
+Mon Jun 29 22:29:00 Saved as file C:\ORCAD\TEST\SCHEM2.MAX
+Mon Jun 29 22:38:59 Saved as file BACKUP1.MAX
+Mon Jun 29 22:39:15 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Mon Jun 29 22:39:15 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Mon Jun 29 22:39:22 Saved as file C:\ORCAD\TEST\SCHEM2.MAX
+Mon Jul 20 16:30:03 Saved as file ~undo.max
+Mon Jul 20 16:31:28 Saved as file ~undo.max
+Mon Jul 20 16:32:06 Saved as file ~undo.max
+Mon Jul 20 16:32:38 Saved as file ~undo.max
+Mon Jul 20 16:39:06 Saved as file ~undo.max
+Mon Jul 20 16:39:14 Saved as file BACKUP1.MAX
+Mon Jul 20 16:39:48 Saved as file ~undo.max
+Mon Jul 20 16:39:49 Saved as file ~undo.max
+Mon Jul 20 16:40:21 Saved as file ~undo.max
+Mon Jul 20 16:40:45 Saved as file ~undo.max
+Mon Jul 20 16:42:30 Saved as file ~undo.max
+Mon Jul 20 16:45:08 Saved as file ~undo.max
+Mon Jul 20 16:48:07 Saved as file ~undo.max
+Mon Jul 20 16:48:48 Saved as file ~undo.max
+Mon Jul 20 16:49:14 Saved as file BACKUP1.MAX
+Mon Jul 20 16:52:15 Saved as file ~undo.max
+Mon Jul 20 16:53:15 Saved as file ~undo.max
+Mon Jul 20 16:53:24 Saved as file ~undo.max
+Mon Jul 20 16:53:45 Saved as file ~undo.max
+Mon Jul 20 16:54:33 Saved as file ~undo.max
+Mon Jul 20 16:56:07 Saved as file C:\ORCAD\TEST\SCHEM2.MAX
+Mon Jul 20 16:58:02 Saved as file ~undo.max
+Mon Jul 20 16:58:18 Saved as file ~undo.max
+Mon Jul 20 16:59:15 Saved as file BACKUP1.MAX
+Mon Jul 20 16:59:45 Saved as file ~undo.max
+Mon Jul 20 17:01:22 Saved as file ~undo.max
+Mon Jul 20 17:06:06 Saved as file ~undo.max
+Mon Jul 20 17:06:09 Saved as file ~undo.max
+Mon Jul 20 17:07:12 Saved as file ~undo.max
+Mon Jul 20 17:07:45 Saved as file ~undo.max
+Mon Jul 20 17:08:31 Saved as file ~undo.max
+Mon Jul 20 17:09:45 Saved as file BACKUP1.MAX
+Mon Jul 20 17:10:12 Saved as file ~undo.max
+Mon Jul 20 17:11:04 Saved as file ~undo.max
+Mon Jul 20 17:14:25 Saved as file C:\ORCAD\TEST\SCHEM2.MAX
+Tue Jul 21 10:35:57 Saved as file ~undo.max
+Tue Jul 21 10:36:35 Saved as file ~undo.max
+Tue Jul 21 10:36:41 Saved as file ~undo.max
+Tue Jul 21 10:36:51 Saved as file ~undo.max
+Tue Jul 21 10:37:18 Saved as file ~undo.max
+Tue Jul 21 10:37:56 Saved as file ~undo.max
+Tue Jul 21 10:38:42 Saved as file ~undo.max
+Tue Jul 21 10:40:18 Saved as file ~undo.max
+Tue Jul 21 10:40:36 Saved as file ~undo.max
+Tue Jul 21 10:40:45 Saved as file ~undo.max
+Tue Jul 21 10:45:16 Saved as file BACKUP1.MAX
+Tue Jul 21 11:06:07 Saved as file BACKUP1.MAX
+Tue Jul 21 11:06:08 Error code 0034.912 (266)
+Tue Jul 21 11:06:08 Saved as file Backup0.max
+Tue Jul 21 11:06:08 Windows which were open at time of error:
+Tue Jul 21 11:06:08 	ActiveWindow: &Design
+Tue Jul 21 11:06:08 	Icon: &Components
+Tue Jul 21 11:06:08 	Icon: &Nets
+Tue Jul 21 11:06:08 	Icon: Post Proces&s
+Tue Jul 21 11:06:08 End-of-list
+Tue Jul 21 11:06:08 Error code 0034.912 (266)
+Tue Jul 21 11:17:36 Saved as file ~undo.max
+Tue Jul 21 11:17:54 Saved as file BACKUP1.MAX
+Tue Jul 21 11:19:26 Saved as file ~undo.max
+Tue Jul 21 11:27:55 Saved as file BACKUP1.MAX
+Tue Jul 21 11:28:18 Saved as file ~undo.max
+Tue Jul 21 11:37:55 Saved as file BACKUP1.MAX
+Tue Jul 21 11:47:55 Saved as file BACKUP1.MAX
+Tue Jul 21 12:01:18 Saved as file BACKUP1.MAX
+Tue Jul 21 12:01:19 Error code 0034.912 (266)
+Tue Jul 21 12:01:21 Saved as file Backup0.max
+Tue Jul 21 12:01:21 Windows which were open at time of error:
+Tue Jul 21 12:01:21 	ActiveWindow: &Design
+Tue Jul 21 12:01:21 	Icon: &Components
+Tue Jul 21 12:01:21 	Icon: &Nets
+Tue Jul 21 12:01:21 	Icon: Post Proces&s
+Tue Jul 21 12:01:21 End-of-list
+Tue Jul 21 12:01:21 Error code 0034.912 (266)
+Tue Jul 21 12:12:03 Saved as file BACKUP1.MAX
+Tue Jul 21 12:22:03 Saved as file BACKUP1.MAX
+Tue Jul 21 12:40:45 Saved as file BACKUP1.MAX
+Tue Jul 21 12:40:46 Error code 0034.912 (266)
+Tue Jul 21 12:40:48 Saved as file Backup0.max
+Tue Jul 21 12:40:48 Windows which were open at time of error:
+Tue Jul 21 12:40:48 	ActiveWindow: &Design
+Tue Jul 21 12:40:48 	Icon: &Components
+Tue Jul 21 12:40:48 	Icon: &Nets
+Tue Jul 21 12:40:48 	Icon: Post Proces&s
+Tue Jul 21 12:40:48 End-of-list
+Tue Jul 21 12:40:48 Error code 0034.912 (266)
+Tue Jul 21 12:43:46 Saved as file ~undo.max
+Tue Jul 21 12:51:29 Saved as file BACKUP1.MAX
+Tue Jul 21 12:54:24 Saved as file ~undo.max
+Tue Jul 21 12:54:51 Saved as file ~undo.max
+Tue Jul 21 13:01:29 Saved as file BACKUP1.MAX
+Tue Jul 21 13:09:30 Saved as file ~undo.max
+Tue Jul 21 13:12:00 Saved as file BACKUP1.MAX
+Tue Jul 21 13:13:59 Saved as file ~undo.max
+Tue Jul 21 13:15:52 Saved as file ~undo.max
+Tue Jul 21 13:22:00 Saved as file BACKUP1.MAX
+Tue Jul 21 13:22:29 Saved as file ~undo.max
+Tue Jul 21 13:29:07 Saved as file C:\ORCAD\TEST\SCHEM2.MAX
+Sun Jul 26 18:04:41 Saved as file ~undo.max
+Mon Jul 27 13:24:37 Saved as file ~undo.max
+Mon Jul 27 13:25:53 Saved as file ~undo.max
+Mon Jul 27 13:31:59 Saved as file BACKUP1.MAX
+Mon Jul 27 13:32:05 Saved as file ~undo.max
+Mon Jul 27 13:32:09 Saved as file ~undo.max
+Mon Jul 27 13:32:45 Saved as file ~undo.max
+Mon Jul 27 13:32:51 Saved as file ~undo.max
+Mon Jul 27 13:33:48 Saved as file ~undo.max
+Mon Jul 27 13:36:48 Saved as file ~undo.max
+Mon Jul 27 13:41:59 Saved as file BACKUP1.MAX
+Mon Jul 27 13:45:58 Saved as file ~undo.max
+Mon Jul 27 13:48:07 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon Jul 27 13:48:07 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:07 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon Jul 27 13:48:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 27 13:48:16 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon Jul 27 13:48:27 Saved as file ~undo.max
+Mon Jul 27 13:48:37 Saved as file ~undo.max
+Mon Jul 27 13:48:57 Saved as file ~undo.max
+Mon Jul 27 13:49:16 Saved as file ~undo.max
+Mon Jul 27 13:49:32 Saved as file ~undo.max
+Mon Jul 27 13:53:00 Saved as file BACKUP1.MAX
+Mon Jul 27 14:03:00 Saved as file BACKUP1.MAX
+Mon Jul 27 14:13:00 Saved as file BACKUP1.MAX
+Mon Jul 27 14:21:12 Saved as file C:\ORCAD\TEST\SCHEM5.MAX
+Tue Jul 28 09:44:36 Saved as file ~undo.max
+Tue Jul 28 09:45:34 Saved as file ~undo.max
+Tue Jul 28 09:45:39 Saved as file ~undo.max
+Tue Jul 28 09:45:44 Saved as file ~undo.max
+Tue Jul 28 09:46:35 Saved as file BACKUP1.MAX
+Tue Jul 28 09:49:18 Saved as file ~undo.max
+Tue Jul 28 09:49:30 Saved as file ~undo.max
+Tue Jul 28 09:51:39 Saved as file C:\ORCAD\TEST\SCHEM6.MAX
+Tue Jul 28 10:12:57 Saved as file ~undo.max
+Tue Jul 28 10:19:55 Saved as file BACKUP1.MAX
+Tue Jul 28 10:24:02 Saved as file ~undo.max
+Tue Jul 28 10:24:08 Saved as file ~undo.max
+Tue Jul 28 10:28:37 Saved as file ~undo.max
+Tue Jul 28 10:30:25 Saved as file BACKUP1.MAX
+Tue Jul 28 10:33:11 Saved as file ~undo.max
+Tue Jul 28 10:40:25 Saved as file BACKUP1.MAX
+Tue Jul 28 10:42:02 Saved as file ~undo.max
+Tue Jul 28 10:45:29 Saved as file ~undo.max
+Tue Jul 28 10:50:26 Saved as file BACKUP1.MAX
+Tue Jul 28 10:55:16 Saved as file ~undo.max
+Tue Jul 28 10:57:22 Saved as file ~undo.max
+Tue Jul 28 10:58:55 Saved as file ~undo.max
+Tue Jul 28 11:00:23 Saved as file C:\ORCAD\TEST\SCHEM6.MAX
+Tue Jul 28 11:00:26 Saved as file BACKUP1.MAX
+Tue Jul 28 11:02:09 Saved as file C:\ORCAD\TEST\SCHEM7.MAX

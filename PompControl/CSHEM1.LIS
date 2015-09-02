@@ -1,0 +1,11 @@
+AutoECO Report
+FILE-A: C:\ORCAD\TEST\CSHEM1.MAX
+FILE-B: C:\ORCAD\TEST\CSHEM1.MNL
+If "*EOF*" immediately follows, no changes were made
+Deleting R16.2 from net +3.3V
+Adding R16.2 to net NRST
+Adding RE1.4 to net AC_IN
+Adding XP1.1 to net +3,3V
+Adding IC1.4 to net 4
+*EOF*
+No errors found

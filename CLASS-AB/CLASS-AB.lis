@@ -1,0 +1,402 @@
+Post Processor Report
+OrCAD FILE: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.MAX
+Mon Jun 07 01:45:06 2010
+
+*********************************************************
+
+Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.TOP
+
+Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.TOP:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,     116 Flashes
+D11:  0.0520 ROUND  --       0 Draws,      26 Flashes
+D12:  0.0520 SQUARE --       0 Draws,       2 Flashes
+D13:  0.0550 ROUND  --       0 Draws,      33 Flashes
+D14:  0.0610 SQUARE --       0 Draws,      36 Flashes
+D15:  0.0610 ROUND  --       0 Draws,      18 Flashes
+D16:  0.1300 ROUND  --       0 Draws,       9 Flashes
+D17:  0.1300 SQUARE --       0 Draws,       5 Flashes
+D18:  0.1470 ROUND  --       0 Draws,       6 Flashes
+D19:  0.0750 ROUND  --       0 Draws,      12 Flashes
+D20:  0.0750 SQUARE --       0 Draws,       6 Flashes
+D21:  0.1000 ROUND  --       0 Draws,      10 Flashes
+D22:  0.0600 ROUND  --       0 Draws,       8 Flashes
+D23:  0.0450 ROUND  --       0 Draws,      28 Flashes
+D24:  0.0300 ROUND  --       0 Draws,       3 Flashes
+D25:  0.0800 ROUND  --       0 Draws,       8 Flashes
+D26:  0.0550 SQUARE --       0 Draws,       1 Flashes
+D27:  0.1250 ROUND  --       0 Draws,       2 Flashes
+D28:  0.1250 SQUARE --       0 Draws,       2 Flashes
+D29:  0.0580 ROUND  --       0 Draws,       7 Flashes
+D30:  0.0580 SQUARE --       0 Draws,       1 Flashes
+D31:  0.1000 SQUARE --       0 Draws,       2 Flashes
+D32:  0.0620 ROUND  --       0 Draws,       2 Flashes
+D33:  0.0620 SQUARE --       0 Draws,       2 Flashes
+D34:  0.0197 ROUND  --     949 Draws,       0 Flashes
+D35:  0.0098 ROUND  --    1352 Draws,       0 Flashes
+D36:  0.0079 ROUND  --    4193 Draws,       0 Flashes
+D37:  0.0000 ROUND  --       1 Draws,       0 Flashes
+D38:  0.0787 ROUND  --      74 Draws,       0 Flashes
+D39:  0.0394 ROUND  --     130 Draws,       0 Flashes
+D40:  0.1181 ROUND  --       7 Draws,       0 Flashes
+D41:  0.0984 ROUND  --       2 Draws,       0 Flashes
+D42:  0.0002 ROUND  --       4 Draws,       0 Flashes
+D72:  0.0300 ROUND  --       0 Draws,       1 Flashes
+---------------------------------------------------------
+ 34 D-Codes      -----    6712 Draws,     346 Flashes
+
+*********************************************************
+
+Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.BOT
+
+Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.BOT:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,       4 Flashes
+D11:  0.0520 ROUND  --       0 Draws,      26 Flashes
+D12:  0.0520 SQUARE --       0 Draws,       2 Flashes
+D13:  0.0550 ROUND  --       0 Draws,      33 Flashes
+D14:  0.0610 SQUARE --       0 Draws,      36 Flashes
+D15:  0.0610 ROUND  --       0 Draws,      18 Flashes
+D16:  0.1300 ROUND  --       0 Draws,      14 Flashes
+D18:  0.1470 ROUND  --       0 Draws,       6 Flashes
+D19:  0.0750 ROUND  --       0 Draws,      12 Flashes
+D20:  0.0750 SQUARE --       0 Draws,       6 Flashes
+D21:  0.1000 ROUND  --       0 Draws,      10 Flashes
+D22:  0.0600 ROUND  --       0 Draws,       8 Flashes
+D23:  0.0450 ROUND  --       0 Draws,      28 Flashes
+D24:  0.0300 ROUND  --       0 Draws,       3 Flashes
+D25:  0.0800 ROUND  --       0 Draws,       8 Flashes
+D26:  0.0550 SQUARE --       0 Draws,       1 Flashes
+D27:  0.1250 ROUND  --       0 Draws,       4 Flashes
+D29:  0.0580 ROUND  --       0 Draws,       7 Flashes
+D30:  0.0580 SQUARE --       0 Draws,       1 Flashes
+D31:  0.1000 SQUARE --       0 Draws,       2 Flashes
+D32:  0.0620 ROUND  --       0 Draws,       2 Flashes
+D33:  0.0620 SQUARE --       0 Draws,       2 Flashes
+D34:  0.0197 ROUND  --       3 Draws,       0 Flashes
+D72:  0.0300 ROUND  --       0 Draws,       1 Flashes
+---------------------------------------------------------
+ 24 D-Codes      -----       3 Draws,     234 Flashes
+
+*********************************************************
+
+Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.GND
+
+Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.GND:
+---------------------------------------------------------
+D19:  0.0750 ROUND  --       0 Draws,      33 Flashes
+D20:  0.0750 SQUARE --       0 Draws,       1 Flashes
+D22:  0.0600 ROUND  --       0 Draws,       3 Flashes
+D25:  0.0800 ROUND  --       0 Draws,       8 Flashes
+D34:  0.0197 ROUND  --       6 Draws,       0 Flashes
+D43:  0.0720 ROUND  --       0 Draws,      26 Flashes
+D44:  0.0720 SQUARE --       0 Draws,       2 Flashes
+D45:  0.0810 SQUARE --       0 Draws,      36 Flashes
+D46:  0.0810 ROUND  --       0 Draws,      18 Flashes
+D47:  0.1360 ROUND  --       0 Draws,      14 Flashes
+D48:  0.1750 ROUND  --       0 Draws,       6 Flashes
+D49:  0.0950 ROUND  --       0 Draws,      12 Flashes
+D50:  0.0950 SQUARE --       0 Draws,       6 Flashes
+D51:  0.1060 ROUND  --       0 Draws,       8 Flashes
+D52:  0.0800 SQUARE --       0 Draws,       4 Flashes
+D53:  0.0650 ROUND  --       0 Draws,      28 Flashes
+D54:  0.0860 ROUND  --       0 Draws,       8 Flashes
+D55:  0.1310 ROUND  --       0 Draws,       4 Flashes
+D56:  0.0780 ROUND  --       0 Draws,       7 Flashes
+D57:  0.0780 SQUARE --       0 Draws,       1 Flashes
+D58:  0.1200 ROUND  --       0 Draws,       2 Flashes
+D59:  0.1200 SQUARE --       0 Draws,       2 Flashes
+D60:  0.0820 ROUND  --       0 Draws,       2 Flashes
+D61:  0.0820 SQUARE --       0 Draws,       2 Flashes
+D73:  0.0600 ROUND  --       0 Draws,       1 Flashes
+---------------------------------------------------------
+ 25 D-Codes      -----       6 Draws,     234 Flashes
+
+*********************************************************
+
+Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.PWR
+
+Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.PWR:
+---------------------------------------------------------
+D19:  0.0750 ROUND  --       0 Draws,      33 Flashes
+D20:  0.0750 SQUARE --       0 Draws,       1 Flashes
+D22:  0.0600 ROUND  --       0 Draws,       3 Flashes
+D25:  0.0800 ROUND  --       0 Draws,       8 Flashes
+D34:  0.0197 ROUND  --       6 Draws,       0 Flashes
+D43:  0.0720 ROUND  --       0 Draws,      26 Flashes
+D44:  0.0720 SQUARE --       0 Draws,       2 Flashes
+D45:  0.0810 SQUARE --       0 Draws,      36 Flashes
+D46:  0.0810 ROUND  --       0 Draws,      18 Flashes
+D47:  0.1360 ROUND  --       0 Draws,      14 Flashes
+D48:  0.1750 ROUND  --       0 Draws,       6 Flashes
+D49:  0.0950 ROUND  --       0 Draws,      12 Flashes
+D50:  0.0950 SQUARE --       0 Draws,       6 Flashes
+D51:  0.1060 ROUND  --       0 Draws,       8 Flashes
+D52:  0.0800 SQUARE --       0 Draws,       4 Flashes
+D53:  0.0650 ROUND  --       0 Draws,      28 Flashes
+D54:  0.0860 ROUND  --       0 Draws,       8 Flashes
+D55:  0.1310 ROUND  --       0 Draws,       4 Flashes
+D56:  0.0780 ROUND  --       0 Draws,       7 Flashes
+D57:  0.0780 SQUARE --       0 Draws,       1 Flashes
+D58:  0.1200 ROUND  --       0 Draws,       2 Flashes
+D59:  0.1200 SQUARE --       0 Draws,       2 Flashes
+D60:  0.0820 ROUND  --       0 Draws,       2 Flashes
+D61:  0.0820 SQUARE --       0 Draws,       2 Flashes
+D73:  0.0600 ROUND  --       0 Draws,       1 Flashes
+---------------------------------------------------------
+ 25 D-Codes      -----       6 Draws,     234 Flashes
+
+*********************************************************
+
+Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SMT
+
+Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SMT:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,     116 Flashes
+D11:  0.0520 ROUND  --       0 Draws,      26 Flashes
+D12:  0.0520 SQUARE --       0 Draws,       2 Flashes
+D13:  0.0550 ROUND  --       0 Draws,      33 Flashes
+D14:  0.0610 SQUARE --       0 Draws,      36 Flashes
+D15:  0.0610 ROUND  --       0 Draws,      18 Flashes
+D16:  0.1300 ROUND  --       0 Draws,       4 Flashes
+D18:  0.1470 ROUND  --       0 Draws,       6 Flashes
+D19:  0.0750 ROUND  --       0 Draws,      12 Flashes
+D20:  0.0750 SQUARE --       0 Draws,       6 Flashes
+D21:  0.1000 ROUND  --       0 Draws,       2 Flashes
+D22:  0.0600 ROUND  --       0 Draws,       8 Flashes
+D23:  0.0450 ROUND  --       0 Draws,      28 Flashes
+D26:  0.0550 SQUARE --       0 Draws,       1 Flashes
+D29:  0.0580 ROUND  --       0 Draws,       7 Flashes
+D30:  0.0580 SQUARE --       0 Draws,       1 Flashes
+D31:  0.1000 SQUARE --       0 Draws,       2 Flashes
+D32:  0.0620 ROUND  --       0 Draws,       2 Flashes
+D33:  0.0620 SQUARE --       0 Draws,       2 Flashes
+D62:  0.1350 ROUND  --       0 Draws,      14 Flashes
+D63:  0.1050 ROUND  --       0 Draws,       8 Flashes
+D64:  0.0350 ROUND  --       0 Draws,       3 Flashes
+D65:  0.0850 ROUND  --       0 Draws,       8 Flashes
+D74:  0.0350 ROUND  --       0 Draws,       1 Flashes
+---------------------------------------------------------
+ 24 D-Codes      -----       0 Draws,     346 Flashes
+
+*********************************************************
+
+Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SMB
+
+Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SMB:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,       4 Flashes
+D11:  0.0520 ROUND  --       0 Draws,      26 Flashes
+D12:  0.0520 SQUARE --       0 Draws,       2 Flashes
+D13:  0.0550 ROUND  --       0 Draws,      33 Flashes
+D14:  0.0610 SQUARE --       0 Draws,      36 Flashes
+D15:  0.0610 ROUND  --       0 Draws,      18 Flashes
+D16:  0.1300 ROUND  --       0 Draws,       4 Flashes
+D18:  0.1470 ROUND  --       0 Draws,       6 Flashes
+D19:  0.0750 ROUND  --       0 Draws,      12 Flashes
+D20:  0.0750 SQUARE --       0 Draws,       6 Flashes
+D21:  0.1000 ROUND  --       0 Draws,       2 Flashes
+D22:  0.0600 ROUND  --       0 Draws,       8 Flashes
+D23:  0.0450 ROUND  --       0 Draws,      28 Flashes
+D26:  0.0550 SQUARE --       0 Draws,       1 Flashes
+D29:  0.0580 ROUND  --       0 Draws,       7 Flashes
+D30:  0.0580 SQUARE --       0 Draws,       1 Flashes
+D31:  0.1000 SQUARE --       0 Draws,       2 Flashes
+D32:  0.0620 ROUND  --       0 Draws,       2 Flashes
+D33:  0.0620 SQUARE --       0 Draws,       2 Flashes
+D62:  0.1350 ROUND  --       0 Draws,      14 Flashes
+D63:  0.1050 ROUND  --       0 Draws,       8 Flashes
+D64:  0.0350 ROUND  --       0 Draws,       3 Flashes
+D65:  0.0850 ROUND  --       0 Draws,       8 Flashes
+D74:  0.0350 ROUND  --       0 Draws,       1 Flashes
+---------------------------------------------------------
+ 24 D-Codes      -----       0 Draws,     234 Flashes
+
+*********************************************************
+
+Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SPT
+
+Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SPT:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,     112 Flashes
+---------------------------------------------------------
+  1 D-Codes      -----       0 Draws,     112 Flashes
+
+*********************************************************
+
+Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SPB
+
+Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SPB:
+---------------------------------------------------------
+No data on this layer
+---------------------------------------------------------
+  0 D-Codes      -----       0 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SST
+
+Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SST:
+---------------------------------------------------------
+D34:  0.0197 ROUND  --      44 Draws,       0 Flashes
+D35:  0.0098 ROUND  --     205 Draws,       0 Flashes
+D36:  0.0079 ROUND  --     168 Draws,       0 Flashes
+D39:  0.0394 ROUND  --      36 Draws,       0 Flashes
+D66:  0.0059 ROUND  --     224 Draws,       0 Flashes
+D67:  0.0080 ROUND  --    1520 Draws,       0 Flashes
+D68:  0.0100 ROUND  --      24 Draws,       0 Flashes
+D69:  0.0039 ROUND  --       8 Draws,       0 Flashes
+D70:  0.0060 ROUND  --    1001 Draws,       0 Flashes
+---------------------------------------------------------
+  9 D-Codes      -----    3230 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.AST
+
+Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.AST:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,     116 Flashes
+D11:  0.0520 ROUND  --       0 Draws,      26 Flashes
+D12:  0.0520 SQUARE --       0 Draws,       2 Flashes
+D13:  0.0550 ROUND  --       0 Draws,      33 Flashes
+D14:  0.0610 SQUARE --       0 Draws,      36 Flashes
+D15:  0.0610 ROUND  --       0 Draws,      18 Flashes
+D18:  0.1470 ROUND  --       0 Draws,       6 Flashes
+D19:  0.0750 ROUND  --       0 Draws,      12 Flashes
+D20:  0.0750 SQUARE --       0 Draws,       6 Flashes
+D21:  0.1000 ROUND  --       0 Draws,       2 Flashes
+D22:  0.0600 ROUND  --       0 Draws,       8 Flashes
+D23:  0.0450 ROUND  --       0 Draws,      28 Flashes
+D26:  0.0550 SQUARE --       0 Draws,       1 Flashes
+D29:  0.0580 ROUND  --       0 Draws,       7 Flashes
+D30:  0.0580 SQUARE --       0 Draws,       1 Flashes
+D31:  0.1000 SQUARE --       0 Draws,       2 Flashes
+D32:  0.0620 ROUND  --       0 Draws,       2 Flashes
+D33:  0.0620 SQUARE --       0 Draws,       2 Flashes
+D34:  0.0197 ROUND  --       6 Draws,       0 Flashes
+D35:  0.0098 ROUND  --     469 Draws,       0 Flashes
+D36:  0.0079 ROUND  --     168 Draws,       0 Flashes
+D67:  0.0080 ROUND  --    2745 Draws,       0 Flashes
+D70:  0.0060 ROUND  --    1403 Draws,       0 Flashes
+---------------------------------------------------------
+ 23 D-Codes      -----    4791 Draws,     308 Flashes
+
+*********************************************************
+
+Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.ASB
+
+Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.ASB:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,       4 Flashes
+D11:  0.0520 ROUND  --       0 Draws,      26 Flashes
+D12:  0.0520 SQUARE --       0 Draws,       2 Flashes
+D13:  0.0550 ROUND  --       0 Draws,      33 Flashes
+D14:  0.0610 SQUARE --       0 Draws,      36 Flashes
+D15:  0.0610 ROUND  --       0 Draws,      18 Flashes
+D18:  0.1470 ROUND  --       0 Draws,       6 Flashes
+D19:  0.0750 ROUND  --       0 Draws,      12 Flashes
+D20:  0.0750 SQUARE --       0 Draws,       6 Flashes
+D21:  0.1000 ROUND  --       0 Draws,       2 Flashes
+D22:  0.0600 ROUND  --       0 Draws,       8 Flashes
+D23:  0.0450 ROUND  --       0 Draws,      28 Flashes
+D26:  0.0550 SQUARE --       0 Draws,       1 Flashes
+D29:  0.0580 ROUND  --       0 Draws,       7 Flashes
+D30:  0.0580 SQUARE --       0 Draws,       1 Flashes
+D31:  0.1000 SQUARE --       0 Draws,       2 Flashes
+D32:  0.0620 ROUND  --       0 Draws,       2 Flashes
+D33:  0.0620 SQUARE --       0 Draws,       2 Flashes
+D34:  0.0197 ROUND  --       6 Draws,       0 Flashes
+D67:  0.0080 ROUND  --      54 Draws,       0 Flashes
+---------------------------------------------------------
+ 20 D-Codes      -----      60 Draws,     196 Flashes
+
+*********************************************************
+
+Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.DRL
+
+Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.DRL:
+---------------------------------------------------------
+D34:  0.0197 ROUND  --       6 Draws,       0 Flashes
+D68:  0.0100 ROUND  --    2682 Draws,       0 Flashes
+D71:  0.0260 ROUND  --       0 Draws,     233 Flashes
+D76:  0.0260 ROUND  --       0 Draws,       1 Flashes
+---------------------------------------------------------
+  4 D-Codes      -----    2688 Draws,     234 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.0600 SQUARE --       0 Draws,     472 Flashes
+D11:  0.0520 ROUND  --       0 Draws,     156 Flashes
+D12:  0.0520 SQUARE --       0 Draws,      12 Flashes
+D13:  0.0550 ROUND  --       0 Draws,     198 Flashes
+D14:  0.0610 SQUARE --       0 Draws,     216 Flashes
+D15:  0.0610 ROUND  --       0 Draws,     108 Flashes
+D16:  0.1300 ROUND  --       0 Draws,      31 Flashes
+D17:  0.1300 SQUARE --       0 Draws,       5 Flashes
+D18:  0.1470 ROUND  --       0 Draws,      36 Flashes
+D19:  0.0750 ROUND  --       0 Draws,     138 Flashes
+D20:  0.0750 SQUARE --       0 Draws,      38 Flashes
+D21:  0.1000 ROUND  --       0 Draws,      28 Flashes
+D22:  0.0600 ROUND  --       0 Draws,      54 Flashes
+D23:  0.0450 ROUND  --       0 Draws,     168 Flashes
+D24:  0.0300 ROUND  --       0 Draws,       6 Flashes
+D25:  0.0800 ROUND  --       0 Draws,      32 Flashes
+D26:  0.0550 SQUARE --       0 Draws,       6 Flashes
+D27:  0.1250 ROUND  --       0 Draws,       6 Flashes
+D28:  0.1250 SQUARE --       0 Draws,       2 Flashes
+D29:  0.0580 ROUND  --       0 Draws,      42 Flashes
+D30:  0.0580 SQUARE --       0 Draws,       6 Flashes
+D31:  0.1000 SQUARE --       0 Draws,      12 Flashes
+D32:  0.0620 ROUND  --       0 Draws,      12 Flashes
+D33:  0.0620 SQUARE --       0 Draws,      12 Flashes
+D34:  0.0197 ROUND  --    1026 Draws,       0 Flashes
+D35:  0.0098 ROUND  --    2026 Draws,       0 Flashes
+D36:  0.0079 ROUND  --    4529 Draws,       0 Flashes
+D37:  0.0000 ROUND  --       1 Draws,       0 Flashes
+D38:  0.0787 ROUND  --      74 Draws,       0 Flashes
+D39:  0.0394 ROUND  --     166 Draws,       0 Flashes
+D40:  0.1181 ROUND  --       7 Draws,       0 Flashes
+D41:  0.0984 ROUND  --       2 Draws,       0 Flashes
+D42:  0.0002 ROUND  --       4 Draws,       0 Flashes
+D43:  0.0720 ROUND  --       0 Draws,      52 Flashes
+D44:  0.0720 SQUARE --       0 Draws,       4 Flashes
+D45:  0.0810 SQUARE --       0 Draws,      72 Flashes
+D46:  0.0810 ROUND  --       0 Draws,      36 Flashes
+D47:  0.1360 ROUND  --       0 Draws,      28 Flashes
+D48:  0.1750 ROUND  --       0 Draws,      12 Flashes
+D49:  0.0950 ROUND  --       0 Draws,      24 Flashes
+D50:  0.0950 SQUARE --       0 Draws,      12 Flashes
+D51:  0.1060 ROUND  --       0 Draws,      16 Flashes
+D52:  0.0800 SQUARE --       0 Draws,       8 Flashes
+D53:  0.0650 ROUND  --       0 Draws,      56 Flashes
+D54:  0.0860 ROUND  --       0 Draws,      16 Flashes
+D55:  0.1310 ROUND  --       0 Draws,       8 Flashes
+D56:  0.0780 ROUND  --       0 Draws,      14 Flashes
+D57:  0.0780 SQUARE --       0 Draws,       2 Flashes
+D58:  0.1200 ROUND  --       0 Draws,       4 Flashes
+D59:  0.1200 SQUARE --       0 Draws,       4 Flashes
+D60:  0.0820 ROUND  --       0 Draws,       4 Flashes
+D61:  0.0820 SQUARE --       0 Draws,       4 Flashes
+D62:  0.1350 ROUND  --       0 Draws,      28 Flashes
+D63:  0.1050 ROUND  --       0 Draws,      16 Flashes
+D64:  0.0350 ROUND  --       0 Draws,       6 Flashes
+D65:  0.0850 ROUND  --       0 Draws,      16 Flashes
+D66:  0.0059 ROUND  --     224 Draws,       0 Flashes
+D67:  0.0080 ROUND  --    4319 Draws,       0 Flashes
+D68:  0.0100 ROUND  --    2706 Draws,       0 Flashes
+D69:  0.0039 ROUND  --       8 Draws,       0 Flashes
+D70:  0.0060 ROUND  --    2404 Draws,       0 Flashes
+D71:  0.0260 ROUND  --       0 Draws,     233 Flashes
+D72:  0.0300 ROUND  --       0 Draws,       2 Flashes
+D73:  0.0600 ROUND  --       0 Draws,       2 Flashes
+D74:  0.0350 ROUND  --       0 Draws,       2 Flashes
+D76:  0.0260 ROUND  --       0 Draws,       1 Flashes
+---------------------------------------------------------
+ 66 D-Codes      -----   17496 Draws,    2478 Flashes
+
+
+No warnings or errors.

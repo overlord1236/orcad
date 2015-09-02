@@ -1,0 +1,18 @@
+** Profile: "SCHEMATIC1-test"  [ C:\Users\Dima\Google Диск\Orcad\test\test-schematic1-test.sim ] 
+
+** Creating circuit file "test-schematic1-test.sim.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Program Files\Orcad\PSpice\PSpice.ini file:
+.lib "C:\Program Files\Orcad\Capture\Library\PSpice\motor_rf.lib" 
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 200m 0 200u 
+.PROBE V(*) I(*) W(*) D(*) NOISE(*) 
+.INC ".\test-SCHEMATIC1.net" 
+
+
+.END

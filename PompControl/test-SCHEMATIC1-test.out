@@ -1,0 +1,66 @@
+
+**** 04/02/15 21:38:21 ********* PSpice 9.2 (Mar 2000) ******** ID# 1 ********
+
+ ** Profile: "SCHEMATIC1-test"  [ C:\Users\Dima\Google \Orcad\test\test-schematic1-test.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "test-schematic1-test.sim.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Local Libraries :
+* From [PSPICE NETLIST] section of C:\Program Files\Orcad\PSpice\PSpice.ini file:
+.lib "C:\Program Files\Orcad\Capture\Library\PSpice\motor_rf.lib" 
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 200m 0 200u 
+.PROBE V(*) I(*) W(*) D(*) NOISE(*) 
+.INC ".\test-SCHEMATIC1.net" 
+
+
+
+**** INCLUDING test-SCHEMATIC1.net ****
+* source TEST
+R_R7         0 N18024  10k  
+C_C3         0 N14110  470u  
+R_R8         N18024 N18516  20k  
+X_SIOV1         N13429 N02838 S10K275/SIE PARAMS: TOL=0
+C_C5         N20482 N20743  100u  
+C_C4         0 N14650  100u  
+R_R2         0 N13429  40  
+R_R1         N02800 N02838  560k  
+R_R9         0 N14110  40k  
+C_C1         N02800 N02838  7.2u  
+R_R10         N17811 0  40k  
+V_V2         N16709 0  
++SIN 0 220 50 0 0 0
+R_R11         N17811 N20367  200  
+R_R4         N14899 N14884  9.1k  
+R_R5         0 N16709  10k  
+R_R12         N20743 N20763  10k  
+R_R3         0 N14899  24k  
+D_D1         0 N02838 D1N1102 
+D_D2         N02838 N13510 D1N1102 
+V_V1         N02800 0  
++SIN 0 220 50 0 0 0
+D_D3         0 N13429 D1N1102 
+D_D4         N13429 N13510 D1N1102 
+R_R6         N16709 N17811  10k  
+C_C2         0 N13510  1000u  
+
+**** RESUMING test-schematic1-test.sim.cir ****
+.END
+
+ERROR -- Model D1N1102 used by D_D1 is undefined
+ERROR -- Model D1N1102 used by D_D2 is undefined
+ERROR -- Model D1N1102 used by D_D3 is undefined
+ERROR -- Model D1N1102 used by D_D4 is undefined

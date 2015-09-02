@@ -1,0 +1,36 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\class-ab.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "C:\Orcad\CLASS-AB\class-ab.dsn")
+      (Path "Design Resources" "C:\Orcad\CLASS-AB\class-ab.dsn" "SCHEMATIC1")
+      (Select "Design Resources" "C:\Orcad\CLASS-AB\class-ab.dsn" "SCHEMATIC1"
+         "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 595"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 44 1212 44 496")
+        (Scroll "1219 514")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "C:\ORCAD\CLASS-AB\CLASS-AB.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

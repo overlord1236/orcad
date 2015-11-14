@@ -1,0 +1,26 @@
+AutoECO Report
+FILE-A: C:\ORCAD\TRIACS_CONTROL2\TRIACSCONTROL.MAX
+FILE-B: C:\ORCAD\TRIACS_CONTROL2\TRIACSCONTROL.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package TRIAC_0
+Adding package CON3_8
+Adding package R_0
+Adding package C_4
+Adding package OPTO_TRIAC_2
+Adding package MOC30XX_1
+Adding package CON3_10
+Adding package R_8
+Adding package DIODE_5
+Adding package CON3_2
+Adding package C_6
+Adding package D:\CDV\DESIGN\AUTOMAT\SUPPLY\SUPPLY.DSN/R_0
+Adding package CON3_5
+Adding package NPN_BCE
+Adding package CON3_11
+Adding package CON3_9
+Adding package CON3_3
+Adding package ST6210B/SO_0
+Adding package D:\PROJECTS\ORCAD\TRIACS_CONTROL\TRIACSCONTROL.DSN/CON3_8
+Adding package TRANSFORMER_CT_0
+Adding package C_1
+Adding component Q7

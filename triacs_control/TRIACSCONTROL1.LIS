@@ -1,35 +1,58 @@
 AutoECO Report
-FILE-A: D:\PROJECTS\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
-FILE-B: D:\PROJECTS\ORCAD\TRIACS_CONTROL\TRIACSCONTROL.MNL
+FILE-A: C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+FILE-B: C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL.MNL
 If "*EOF*" immediately follows, no changes were made
-Adding component R32
-Adding component R33
-Adding component R34
-Deleting R12.1 from net LG2
-Adding R32.2 to net LG2
-Deleting R17.1 from net LG3
-Adding R33.2 to net LG3
-Deleting R22.1 from net LG4
-Adding R34.2 to net LG4
-Deleting C12.2 from net N
-Deleting C11.2 from net N
-Deleting C10.2 from net N
-Adding R33.1 to net N
-Adding R34.1 to net N
-Adding R32.1 to net N
+Net NET_50 renamed to LG1_CTRL
+Adding net N2
+Adding net N3
+Adding net N4
+Net N renamed to N1
+Net NET_49 renamed to LG2_CTRL
+Net NET_48 renamed to LG3_CTRL
+Net NET_47 renamed to LG4_CTRL
+Deleting T1.7 from net N3941905
+Adding T1.9 to net N3941905
+Deleting T1.9 from net N3941847
+Adding T1.7 to net N3941847
+Deleting IC2.4 from net VCC
+Adding XS3.1 to net LG2
+Adding XS4.1 to net LG3
+Adding XS5.1 to net LG4
+Adding XS2.1 to net LG1
+Deleting Q5.3 from net N1
+Deleting R16.1 from net N1
+Deleting R11.1 from net N1
+Deleting R32.1 from net N1
+Deleting Q7.3 from net N1
+Deleting R34.1 from net N1
+Deleting R21.1 from net N1
+Deleting R33.1 from net N1
+Adding XS2.2 to net N1
+Deleting IC3.16 from net LG4_CTRL
+Adding IC3.5 to net LG4_CTRL
+Deleting IC3.15 from net LG3_CTRL
+Adding IC3.4 to net LG3_CTRL
+Deleting IC3.14 from net LG2_CTRL
+Adding IC3.3 to net LG2_CTRL
+Deleting IC3.13 from net LG1_CTRL
+Adding IC3.2 to net LG1_CTRL
 Adding IC3.16 to net PB3
 Adding IC3.17 to net PB4
-Deleting component R22
-Deleting component R17
-Deleting component R12
-Deleting component R7
-Deleting component C12
-Deleting component C11
-Deleting component C10
-Deleting component C9
-Deleting net N3945328
-Deleting net N3945628
-Deleting net N3925709
-Deleting net N3946319
+Adding Q3.3 to net N2
+Adding R11.1 to net N2
+Adding R32.1 to net N2
+Adding XS3.2 to net N2
+Adding XS4.2 to net N3
+Adding Q5.3 to net N3
+Adding R16.1 to net N3
+Adding R33.1 to net N3
+Adding R34.1 to net N4
+Adding Q7.3 to net N4
+Adding R21.1 to net N4
+Adding XS5.2 to net N4
+Deleting component 67
+Deleting component 66
+Deleting component 65
+Deleting component 64
 *EOF*
 No errors found

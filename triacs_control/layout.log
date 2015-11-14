@@ -22916,3 +22916,358 @@ Fri Nov 13 19:28:56 Saved as file ~undo.max
 Fri Nov 13 19:30:16 Saved as file ~undo.max
 Fri Nov 13 19:36:01 Saved as file BACKUP1.MAX
 Fri Nov 13 19:44:11 Saved as file D:\PROJECTS\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 18:24:41 Saved as file ~undo.max
+Sat Nov 14 18:29:55 Saved as file ~undo.max
+Sat Nov 14 18:30:01 Saved as file ~undo.max
+Sat Nov 14 18:30:23 Saved as file ~undo.max
+Sat Nov 14 18:33:30 Saved as file BACKUP1.MAX
+Sat Nov 14 18:34:32 Saved as file ~undo.max
+Sat Nov 14 18:35:08 Saved as file ~undo.max
+Sat Nov 14 18:36:02 Saved as file ~undo.max
+Sat Nov 14 18:42:12 Saved as file ~undo.max
+Sat Nov 14 18:42:50 Saved as file ~undo.max
+Sat Nov 14 18:43:58 Saved as file BACKUP1.MAX
+Sat Nov 14 18:47:46 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 18:51:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\data\template.imp
+Sat Nov 14 18:51:38 Error code 5226.020 (1)
+Sat Nov 14 18:55:00 Saved as file ~undo.max
+Sat Nov 14 18:55:08 Saved as file ~undo.max
+Sat Nov 14 19:00:16 Saved as file ~undo.max
+Sat Nov 14 19:02:47 Saved as file BACKUP1.MAX
+Sat Nov 14 19:03:56 Saved as file ~undo.max
+Sat Nov 14 19:04:48 Saved as file ~undo.max
+Sat Nov 14 19:05:28 Saved as file ~undo.max
+Sat Nov 14 19:07:50 Saved as file ~undo.max
+Sat Nov 14 19:07:57 Saved as file ~undo.max
+Sat Nov 14 19:09:13 Saved as file ~undo.max
+Sat Nov 14 19:10:53 Saved as file ~undo.max
+Sat Nov 14 19:12:38 Saved as file ~undo.max
+Sat Nov 14 19:12:47 Saved as file BACKUP1.MAX
+Sat Nov 14 19:14:40 Saved as file BACKUP1.MAX
+Sat Nov 14 19:14:40 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 19:14:41 UserDiv from Layout.INI for AutoECO: 60
+Sat Nov 14 19:14:41 Loaded file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 19:14:41 Loaded file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 19:14:41 Loaded file C:\ORCAD\EXITATION_MODULE\LED_PCB\LED_MODULE.MAX
+Sat Nov 14 19:14:41 Loaded file C:\ORCAD\EXITATION_MODULE\MAIN_PCB\EXITATION_4CH.MAX
+Sat Nov 14 19:14:41 Loaded file C:\ORCAD\EXITATION_MODULE\SRC_DRIVER\TRIACS_DRIVER.MAX
+Sat Nov 14 19:14:41 Loaded file C:\ORCAD\EXITATION_MODULE\PROTECTION\PROTECTION.MAX
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON100T.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BCON156T.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\BGA.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\CLCC.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON050T.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DCON085T.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050F.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIMM050T.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIN.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100B.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DIP100T.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\DSUBT_HD.LLB
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ECON100T.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\FBUS.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ISA.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\JUMPER.LLB
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LAYOUT.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\LCON100T.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PC104.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCI.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON100T.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PCON156T.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PGA.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\PLCC.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUAD.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\QUADB.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RELAY.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\RF.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SBUS.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050F.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM050T.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100F.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIMM100T.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SIP.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SM.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOG.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\SOJ.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\STIFF.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TELE.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_AXIAL.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CAP_P.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_CYLND.llb
+Sat Nov 14 19:14:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DIODE.llb
+Sat Nov 14 19:14:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_DISC.llb
+Sat Nov 14 19:14:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TM_RAD.llb
+Sat Nov 14 19:14:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Sat Nov 14 19:14:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TRAINING.LLB
+Sat Nov 14 19:14:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\VRES.llb
+Sat Nov 14 19:14:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\WCON100T.llb
+Sat Nov 14 19:14:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\XT.llb
+Sat Nov 14 19:14:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\ZIGZAG.llb
+Sat Nov 14 19:14:42 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 19:14:42 Loaded file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 19:15:38 Saved as file ~undo.max
+Sat Nov 14 19:17:10 Saved as file ~undo.max
+Sat Nov 14 19:18:43 Saved as file ~undo.max
+Sat Nov 14 19:19:17 Saved as file ~undo.max
+Sat Nov 14 19:19:35 Saved as file ~undo.max
+Sat Nov 14 19:19:43 Saved as file ~undo.max
+Sat Nov 14 19:22:24 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:22:24 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:22:27 Loaded file C:\ORCAD\EXITATION_MODULE\MAIN_PCB\EXITATION_4CH.MAX
+Sat Nov 14 19:22:31 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:22:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:35 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:22:35 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:35 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:35 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:35 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:35 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:35 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:35 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:35 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:35 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:35 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:22:53 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:22:53 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:23:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:23:17 Saved as file BACKUP1.MAX
+Sat Nov 14 19:23:46 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 19:33:07 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:33:07 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:33:07 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:33:07 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:33:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT\library\TO.llb
+Sat Nov 14 19:33:25 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:33:48 Saved as file BACKUP1.MAX
+Sat Nov 14 19:33:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:33:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:33:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:33:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:34:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:34:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:34:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:34:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:34:05 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:34:52 Saved as file ~undo.max
+Sat Nov 14 19:35:16 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:35:16 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:35:16 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:35:16 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:35:19 Loaded file C:\ORCAD\EXITATION_MODULE\LED_PCB\LED_MODULE.MAX
+Sat Nov 14 19:35:21 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:35:21 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:35:21 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:35:21 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:35:21 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:35:21 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:35:21 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:35:21 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:35:21 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:01 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:06 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:08 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:09 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:10 Loaded file C:\ORCAD\EXITATION_MODULE\LED_PCB\LED_MODULE.MAX
+Sat Nov 14 19:36:10 Loaded file C:\ORCAD\EXITATION_MODULE\MAIN_PCB\EXITATION_4CH.MAX
+Sat Nov 14 19:36:13 Loaded file C:\ORCAD\EXITATION_MODULE\LED_PCB\LED_MODULE.MAX
+Sat Nov 14 19:36:14 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:14 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:14 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:14 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:14 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:14 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:14 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:14 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:14 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:32 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:32 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:32 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:32 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:35 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:39 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:40 Loaded file C:\ORCAD\EXITATION_MODULE\LED_PCB\LED_MODULE.MAX
+Sat Nov 14 19:36:41 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:41 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:41 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:41 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:41 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:41 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:41 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:41 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:41 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:50 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:51 Loaded file C:\ORCAD\EXITATION_MODULE\MAIN_PCB\EXITATION_4CH.MAX
+Sat Nov 14 19:36:51 Loaded file C:\ORCAD\EXITATION_MODULE\LED_PCB\LED_MODULE.MAX
+Sat Nov 14 19:36:52 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:36:52 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:52 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:52 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:52 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:52 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:52 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:52 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:36:52 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:37:23 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:37:23 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:37:23 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:37:23 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:37:29 Loaded file C:\ORCAD\EXITATION_MODULE\LED_PCB\LED_MODULE.MAX
+Sat Nov 14 19:37:31 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:37:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:37:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:37:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:37:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:37:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:37:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:37:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:37:31 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:03 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:03 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:03 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:03 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:07 Loaded file C:\ORCAD\EXITATION_MODULE\LED_PCB\LED_MODULE.MAX
+Sat Nov 14 19:38:09 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:09 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:09 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:09 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:09 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:09 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:09 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:09 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:09 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:41 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:41 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:41 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:41 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:42 Loaded file C:\ORCAD\EXITATION_MODULE\LED_PCB\LED_MODULE.MAX
+Sat Nov 14 19:38:44 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:44 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:44 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:44 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:44 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:44 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:44 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:44 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:44 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:51 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:52 Loaded file C:\ORCAD\EXITATION_MODULE\LED_PCB\LED_MODULE.MAX
+Sat Nov 14 19:38:53 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:38:53 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:53 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:53 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:53 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:53 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:53 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:53 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:38:53 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:39:05 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:39:05 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:39:05 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:39:05 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:39:06 Loaded file C:\ORCAD\EXITATION_MODULE\LED_PCB\LED_MODULE.MAX
+Sat Nov 14 19:39:07 Loaded file C:\Program Files\Orcad\Layout\data\template.imp
+Sat Nov 14 19:39:07 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:39:07 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:39:07 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:39:07 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:39:07 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:39:07 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:39:07 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:39:07 Footprint coords will be rounded to nearest base unit.
+Sat Nov 14 19:39:43 Saved as file ~undo.max
+Sat Nov 14 19:39:57 Saved as file ~undo.max
+Sat Nov 14 19:40:56 Saved as file ~undo.max
+Sat Nov 14 19:44:48 Saved as file BACKUP1.MAX
+Sat Nov 14 19:48:15 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 19:49:52 Saved as file ~undo.max
+Sat Nov 14 19:51:05 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 19:51:40 Saved as file ~undo.max
+Sat Nov 14 19:53:25 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 19:54:48 Saved as file BACKUP1.MAX
+Sat Nov 14 20:01:10 Saved as file ~undo.max
+Sat Nov 14 20:02:45 Saved as file ~undo.max
+Sat Nov 14 20:02:52 Saved as file ~undo.max
+Sat Nov 14 20:02:59 Saved as file ~undo.max
+Sat Nov 14 20:04:49 Saved as file BACKUP1.MAX
+Sat Nov 14 20:05:39 Saved as file ~undo.max
+Sat Nov 14 20:08:15 Saved as file ~undo.max
+Sat Nov 14 20:12:18 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 20:13:39 Saved as file ~undo.max
+Sat Nov 14 20:14:45 Saved as file ~undo.max
+Sat Nov 14 20:14:49 Saved as file BACKUP1.MAX
+Sat Nov 14 20:15:20 Saved as file ~undo.max
+Sat Nov 14 20:23:37 Saved as file ~undo.max
+Sat Nov 14 20:24:49 Saved as file BACKUP1.MAX
+Sat Nov 14 20:27:22 Saved as file ~undo.max
+Sat Nov 14 20:31:42 Saved as file ~undo.max
+Sat Nov 14 20:32:36 Saved as file ~undo.max
+Sat Nov 14 20:33:19 Saved as file ~undo.max
+Sat Nov 14 20:33:39 Saved as file ~undo.max
+Sat Nov 14 20:34:29 Saved as file ~undo.max
+Sat Nov 14 20:34:49 Saved as file BACKUP1.MAX
+Sat Nov 14 20:34:55 Saved as file ~undo.max
+Sat Nov 14 20:35:02 Saved as file ~undo.max
+Sat Nov 14 20:35:25 Saved as file ~undo.max
+Sat Nov 14 20:39:55 Saved as file ~undo.max
+Sat Nov 14 20:40:09 Saved as file ~undo.max
+Sat Nov 14 20:44:45 Saved as file ~undo.max
+Sat Nov 14 20:44:50 Saved as file BACKUP1.MAX
+Sat Nov 14 20:45:24 Saved as file ~undo.max
+Sat Nov 14 20:45:45 Saved as file ~undo.max
+Sat Nov 14 20:46:53 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 20:48:50 Saved as file ~undo.max
+Sat Nov 14 20:50:40 Saved as file ~undo.max
+Sat Nov 14 20:54:37 Saved as file ~undo.max
+Sat Nov 14 20:54:50 Saved as file BACKUP1.MAX
+Sat Nov 14 20:56:50 Saved as file ~undo.max
+Sat Nov 14 20:58:31 Saved as file ~undo.max
+Sat Nov 14 20:58:41 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 20:59:56 Saved as file ~undo.max
+Sat Nov 14 21:00:04 Saved as file ~undo.max
+Sat Nov 14 21:04:50 Saved as file BACKUP1.MAX
+Sat Nov 14 21:05:51 Saved as file ~undo.max
+Sat Nov 14 21:09:14 Saved as file ~undo.max
+Sat Nov 14 21:11:36 Saved as file ~undo.max
+Sat Nov 14 21:12:52 Saved as file ~undo.max
+Sat Nov 14 21:14:51 Saved as file BACKUP1.MAX
+Sat Nov 14 21:17:17 Saved as file ~undo.max
+Sat Nov 14 21:20:06 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 21:22:23 Saved as file ~undo.max
+Sat Nov 14 21:23:26 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 21:24:51 Saved as file BACKUP1.MAX
+Sat Nov 14 21:26:20 Saved as file ~undo.max
+Sat Nov 14 21:29:21 Saved as file ~undo.max
+Sat Nov 14 21:30:12 Saved as file ~undo.max
+Sat Nov 14 21:31:01 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 21:32:19 Saved as file ~undo.max
+Sat Nov 14 21:33:21 Saved as file ~undo.max
+Sat Nov 14 21:34:51 Saved as file BACKUP1.MAX
+Sat Nov 14 21:41:40 Saved as file ~undo.max
+Sat Nov 14 21:42:04 Saved as file ~undo.max
+Sat Nov 14 21:45:21 Saved as file BACKUP1.MAX
+Sat Nov 14 21:46:23 Saved as file ~undo.max
+Sat Nov 14 21:49:07 Saved as file ~undo.max
+Sat Nov 14 21:49:10 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+Sat Nov 14 21:52:41 Saved as file C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX

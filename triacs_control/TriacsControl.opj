@@ -31,6 +31,7 @@
     (LAYOUT_PCB_Footprint "{PCB Footprint}")
     (TRUE)
     (LAYOUT_Units "0")
+    (TRUE)
     (TRUE))
   (Folder "Outputs"
     (File ".\triacscontrol.mnl"
@@ -92,20 +93,20 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -4 -23 154 1322 154 606")
-        (Scroll "353 240")
-        (Zoom "148")
+        (Placement "44 0 1 -1 -1 -4 -23 88 1700 88 742")
+        (Scroll "0 0")
+        (Zoom "127")
         (Occurrence "/"))
-      (Path "D:\PROJECTS\ORCAD\TRIACS_CONTROL\TRIACSCONTROL.DSN")
+      (Path "C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))
+      (Page "PAGE2"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -4 -23 198 1366 198 650")
-        (Scroll "450 812")
-        (Zoom "200")
+        (Placement "44 2 3 -1 -1 -4 -23 110 1722 110 764")
+        (Scroll "0 0")
+        (Zoom "111")
         (Occurrence "/"))
-      (Path "D:\PROJECTS\ORCAD\TRIACS_CONTROL\TRIACSCONTROL.DSN")
+      (Path "C:\ORCAD\TRIACS_CONTROL\TRIACSCONTROL.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE2"))))
+      (Page "PAGE1"))))

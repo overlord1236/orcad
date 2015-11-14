@@ -1,12 +1,12 @@
 Post Processor Report
-OrCAD FILE: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.MAX
-Mon Jun 07 01:45:06 2010
+OrCAD FILE: D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.MAX
+Fri Sep 25 13:26:43 2015
 
 *********************************************************
 
-Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.TOP
+Output file: D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.TOP
 
-Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.TOP:
+Aperture totals for D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.TOP:
 ---------------------------------------------------------
 D10:  0.0600 SQUARE --       0 Draws,     116 Flashes
 D11:  0.0520 ROUND  --       0 Draws,      26 Flashes
@@ -32,24 +32,24 @@ D30:  0.0580 SQUARE --       0 Draws,       1 Flashes
 D31:  0.1000 SQUARE --       0 Draws,       2 Flashes
 D32:  0.0620 ROUND  --       0 Draws,       2 Flashes
 D33:  0.0620 SQUARE --       0 Draws,       2 Flashes
-D34:  0.0197 ROUND  --     949 Draws,       0 Flashes
+D34:  0.0197 ROUND  --     918 Draws,       0 Flashes
 D35:  0.0098 ROUND  --    1352 Draws,       0 Flashes
 D36:  0.0079 ROUND  --    4193 Draws,       0 Flashes
 D37:  0.0000 ROUND  --       1 Draws,       0 Flashes
-D38:  0.0787 ROUND  --      74 Draws,       0 Flashes
-D39:  0.0394 ROUND  --     130 Draws,       0 Flashes
-D40:  0.1181 ROUND  --       7 Draws,       0 Flashes
+D38:  0.0787 ROUND  --      62 Draws,       0 Flashes
+D39:  0.0394 ROUND  --     129 Draws,       0 Flashes
+D40:  0.1181 ROUND  --       5 Draws,       0 Flashes
 D41:  0.0984 ROUND  --       2 Draws,       0 Flashes
 D42:  0.0002 ROUND  --       4 Draws,       0 Flashes
 D72:  0.0300 ROUND  --       0 Draws,       1 Flashes
 ---------------------------------------------------------
- 34 D-Codes      -----    6712 Draws,     346 Flashes
+ 34 D-Codes      -----    6666 Draws,     346 Flashes
 
 *********************************************************
 
-Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.BOT
+Output file: D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.BOT
 
-Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.BOT:
+Aperture totals for D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.BOT:
 ---------------------------------------------------------
 D10:  0.0600 SQUARE --       0 Draws,       4 Flashes
 D11:  0.0520 ROUND  --       0 Draws,      26 Flashes
@@ -80,9 +80,9 @@ D72:  0.0300 ROUND  --       0 Draws,       1 Flashes
 
 *********************************************************
 
-Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.GND
+Output file: D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.GND
 
-Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.GND:
+Aperture totals for D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.GND:
 ---------------------------------------------------------
 D19:  0.0750 ROUND  --       0 Draws,      33 Flashes
 D20:  0.0750 SQUARE --       0 Draws,       1 Flashes
@@ -114,9 +114,9 @@ D73:  0.0600 ROUND  --       0 Draws,       1 Flashes
 
 *********************************************************
 
-Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.PWR
+Output file: D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.PWR
 
-Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.PWR:
+Aperture totals for D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.PWR:
 ---------------------------------------------------------
 D19:  0.0750 ROUND  --       0 Draws,      33 Flashes
 D20:  0.0750 SQUARE --       0 Draws,       1 Flashes
@@ -148,9 +148,9 @@ D73:  0.0600 ROUND  --       0 Draws,       1 Flashes
 
 *********************************************************
 
-Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SMT
+Output file: D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.SMT
 
-Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SMT:
+Aperture totals for D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.SMT:
 ---------------------------------------------------------
 D10:  0.0600 SQUARE --       0 Draws,     116 Flashes
 D11:  0.0520 ROUND  --       0 Draws,      26 Flashes
@@ -181,9 +181,9 @@ D74:  0.0350 ROUND  --       0 Draws,       1 Flashes
 
 *********************************************************
 
-Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SMB
+Output file: D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.SMB
 
-Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SMB:
+Aperture totals for D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.SMB:
 ---------------------------------------------------------
 D10:  0.0600 SQUARE --       0 Draws,       4 Flashes
 D11:  0.0520 ROUND  --       0 Draws,      26 Flashes
@@ -214,9 +214,9 @@ D74:  0.0350 ROUND  --       0 Draws,       1 Flashes
 
 *********************************************************
 
-Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SPT
+Output file: D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.SPT
 
-Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SPT:
+Aperture totals for D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.SPT:
 ---------------------------------------------------------
 D10:  0.0600 SQUARE --       0 Draws,     112 Flashes
 ---------------------------------------------------------
@@ -224,9 +224,9 @@ D10:  0.0600 SQUARE --       0 Draws,     112 Flashes
 
 *********************************************************
 
-Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SPB
+Output file: D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.SPB
 
-Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SPB:
+Aperture totals for D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.SPB:
 ---------------------------------------------------------
 No data on this layer
 ---------------------------------------------------------
@@ -234,9 +234,9 @@ No data on this layer
 
 *********************************************************
 
-Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SST
+Output file: D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.SST
 
-Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.SST:
+Aperture totals for D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.SST:
 ---------------------------------------------------------
 D34:  0.0197 ROUND  --      44 Draws,       0 Flashes
 D35:  0.0098 ROUND  --     205 Draws,       0 Flashes
@@ -252,9 +252,9 @@ D70:  0.0060 ROUND  --    1001 Draws,       0 Flashes
 
 *********************************************************
 
-Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.AST
+Output file: D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.AST
 
-Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.AST:
+Aperture totals for D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.AST:
 ---------------------------------------------------------
 D10:  0.0600 SQUARE --       0 Draws,     116 Flashes
 D11:  0.0520 ROUND  --       0 Draws,      26 Flashes
@@ -284,9 +284,9 @@ D70:  0.0060 ROUND  --    1403 Draws,       0 Flashes
 
 *********************************************************
 
-Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.ASB
+Output file: D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.ASB
 
-Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.ASB:
+Aperture totals for D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.ASB:
 ---------------------------------------------------------
 D10:  0.0600 SQUARE --       0 Draws,       4 Flashes
 D11:  0.0520 ROUND  --       0 Draws,      26 Flashes
@@ -313,9 +313,9 @@ D67:  0.0080 ROUND  --      54 Draws,       0 Flashes
 
 *********************************************************
 
-Output file: D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.DRL
+Output file: D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.DRL
 
-Aperture totals for D:\SOURCE BOOK\DESIGN\POWERAMP\CLASS-AB\CLASS-AB.DRL:
+Aperture totals for D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.DRL:
 ---------------------------------------------------------
 D34:  0.0197 ROUND  --       6 Draws,       0 Flashes
 D68:  0.0100 ROUND  --    2682 Draws,       0 Flashes
@@ -353,13 +353,13 @@ D30:  0.0580 SQUARE --       0 Draws,       6 Flashes
 D31:  0.1000 SQUARE --       0 Draws,      12 Flashes
 D32:  0.0620 ROUND  --       0 Draws,      12 Flashes
 D33:  0.0620 SQUARE --       0 Draws,      12 Flashes
-D34:  0.0197 ROUND  --    1026 Draws,       0 Flashes
+D34:  0.0197 ROUND  --     995 Draws,       0 Flashes
 D35:  0.0098 ROUND  --    2026 Draws,       0 Flashes
 D36:  0.0079 ROUND  --    4529 Draws,       0 Flashes
 D37:  0.0000 ROUND  --       1 Draws,       0 Flashes
-D38:  0.0787 ROUND  --      74 Draws,       0 Flashes
-D39:  0.0394 ROUND  --     166 Draws,       0 Flashes
-D40:  0.1181 ROUND  --       7 Draws,       0 Flashes
+D38:  0.0787 ROUND  --      62 Draws,       0 Flashes
+D39:  0.0394 ROUND  --     165 Draws,       0 Flashes
+D40:  0.1181 ROUND  --       5 Draws,       0 Flashes
 D41:  0.0984 ROUND  --       2 Draws,       0 Flashes
 D42:  0.0002 ROUND  --       4 Draws,       0 Flashes
 D43:  0.0720 ROUND  --       0 Draws,      52 Flashes
@@ -396,7 +396,7 @@ D73:  0.0600 ROUND  --       0 Draws,       2 Flashes
 D74:  0.0350 ROUND  --       0 Draws,       2 Flashes
 D76:  0.0260 ROUND  --       0 Draws,       1 Flashes
 ---------------------------------------------------------
- 66 D-Codes      -----   17496 Draws,    2478 Flashes
+ 66 D-Codes      -----   17450 Draws,    2478 Flashes
 
 
 No warnings or errors.

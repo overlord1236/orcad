@@ -13,11 +13,7 @@
   (PartMRUSelector)
   (GlobalState
     (FileView
-      (Path "Design Resources")
-      (Path "Design Resources" "C:\Orcad\CLASS-AB\class-ab.dsn")
-      (Path "Design Resources" "C:\Orcad\CLASS-AB\class-ab.dsn" "SCHEMATIC1")
-      (Select "Design Resources" "C:\Orcad\CLASS-AB\class-ab.dsn" "SCHEMATIC1"
-         "PAGE1"))
+      (Path "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -27,10 +23,10 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -4 -23 44 1212 44 496")
-        (Scroll "1219 514")
+        (Placement "44 2 3 0 622 -4 -23 44 1208 44 492")
+        (Scroll "1807 649")
         (Zoom "200")
         (Occurrence "/"))
-      (Path "C:\ORCAD\CLASS-AB\CLASS-AB.DSN")
+      (Path "D:\PROJECTS\ORCAD\CLASS-AB\CLASS-AB.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1"))))

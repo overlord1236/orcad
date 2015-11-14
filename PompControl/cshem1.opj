@@ -107,25 +107,33 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "C:\Orcad\test\cshem1.dsn")
-      (Path "Design Resources" "C:\Orcad\test\cshem1.dsn" "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" "C:\Orcad\test\cshem1.dsn" "SCHEMATIC1"
-         "PAGE1"))
+      (Path "PSpice Resources")
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 627"))
+        (Placement "44 2 3 -1 -1 -4 -23 0 200 0 627"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -4 -23 202 1580 3 623")
-        (Scroll "111 0")
-        (Zoom "134")
+        (Placement "44 0 1 -1 -1 -1 -1 106 1270 137 555")
+        (Scroll "0 0")
+        (Zoom "100")
         (Occurrence "/"))
-      (Path "C:\ORCAD\TEST\CSHEM1.DSN")
+      (Path "D:\PROJECTS\ORCAD\POMPCONTROL\CSHEM1.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE2"))))
+      (Page "PAGE2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 176 1340 176 594")
+        (Scroll "28 114")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\ORCAD\POMPCONTROL\CSHEM1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

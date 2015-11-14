@@ -1,0 +1,35 @@
+AutoECO Report
+FILE-A: D:\PROJECTS\ORCAD\TRIACS_CONTROL\TRIACSCONTROL1.MAX
+FILE-B: D:\PROJECTS\ORCAD\TRIACS_CONTROL\TRIACSCONTROL.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding component R32
+Adding component R33
+Adding component R34
+Deleting R12.1 from net LG2
+Adding R32.2 to net LG2
+Deleting R17.1 from net LG3
+Adding R33.2 to net LG3
+Deleting R22.1 from net LG4
+Adding R34.2 to net LG4
+Deleting C12.2 from net N
+Deleting C11.2 from net N
+Deleting C10.2 from net N
+Adding R33.1 to net N
+Adding R34.1 to net N
+Adding R32.1 to net N
+Adding IC3.16 to net PB3
+Adding IC3.17 to net PB4
+Deleting component R22
+Deleting component R17
+Deleting component R12
+Deleting component R7
+Deleting component C12
+Deleting component C11
+Deleting component C10
+Deleting component C9
+Deleting net N3945328
+Deleting net N3945628
+Deleting net N3925709
+Deleting net N3946319
+*EOF*
+No errors found

@@ -1,0 +1,111 @@
+(ExpressProject "TriacsControl"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\triacscontrol.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (FLDSTUFF_Scope "0")
+    (FLDSTUFF_Action "0")
+    (FLDSTUFF_Report_File ".\library\library1.RPT")
+    (FLDSTUFF_Update_File ".\library\library1.UPD")
+    (FLDSTUFF__Uppercase_Result_Property "FALSE")
+    (FLDSTUFF_Uppercase_Update_Property "FALSE")
+    (FLDSTUFF_Uppercase_Unconditionally "FALSE")
+    (FLDSTUFF_Visibility "0")
+    (FLDSTUFF_inst_or_occurrence "0")
+    (FLDSTUFF_Create_Report_File "FALSE")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}")
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File "TRIACSCONTROL.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\triacscontrol.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (LastUsedLibraryBrowseDirectory "D:\Projects\orcad\triacs_control\library")
+  (PartMRUSelector
+    (STM32-tqfp-32
+      (FullPartName "STM32-tqfp-32.Normal")
+      (LibraryName "D:\PROJECTS\ORCAD\TRIACS_CONTROL\LIBRARY\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("NPN BCE"
+      (FullPartName "NPN BCE.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("TRANSFORMER ISOLATED"
+      (FullPartName "TRANSFORMER ISOLATED.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (pc817
+      (FullPartName "pc817.Normal")
+      (LibraryName "D:\PROJECTS\ORCAD\TRIACS_CONTROL\LIBRARY\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("PHOTO NPN"
+      (FullPartName "PHOTO NPN.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (triac
+      (FullPartName "triac.Normal")
+      (LibraryName "D:\PROJECTS\ORCAD\TRIACS_CONTROL\LIBRARY\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (TRIAC
+      (FullPartName "TRIAC.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (moc30xx
+      (FullPartName "moc30xx.Normal")
+      (LibraryName "D:\PROJECTS\ORCAD\TRIACS_CONTROL\LIBRARY\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (DIPSOC-3x2/SM
+      (FullPartName "DIPSOC-3x2/SM.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\MECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (STM8
+      (FullPartName "STM8.Normal")
+      (LibraryName "D:\PROJECTS\ORCAD\TRIACS_CONTROL\LIBRARY\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 425"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 154 1322 154 606")
+        (Scroll "353 240")
+        (Zoom "148")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\ORCAD\TRIACS_CONTROL\TRIACSCONTROL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 198 1366 198 650")
+        (Scroll "450 812")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "D:\PROJECTS\ORCAD\TRIACS_CONTROL\TRIACSCONTROL.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE2"))))
